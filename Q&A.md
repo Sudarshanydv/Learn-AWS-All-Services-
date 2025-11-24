@@ -1,11 +1,11 @@
-1. Q: What is computer networking?
+# 1. Q: What is computer networking?
 A: Networking means connecting two or more computers to share data, files, or resources.
 
-2. Q: What are the types of networks?
+# 2. Q: What are the types of networks?
 A: LAN (Local Area Network), MAN (Metropolitan Area Network), and WAN (Wide Area Network).
 
 
-2. Why would you use the AWS CLI?
+# 2. Why would you use the AWS CLI?
 The AWS CLI provides a convenient way to automate tasks, manage AWS resources, and interact with services directly from the command line, making it useful for scripting and administration.
 
 3. How do you install the AWS CLI?
