@@ -5,10 +5,11 @@ Dev.to Blog: https://dev.to/sudarshan_yadav
 LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
 Resume (Drive) - https://drive.google.com/file/d/1jas-UeQuCSR6OZCP6pAPTnLiWcJiAVk1/view?usp=drive_link
 
+# 🚀 My Web Hosting Journey with AWS EC2 – Step-by-Step Deployment Guide
 
-# EC2 Launch Guide — GitHub-ready README
+# EC2 Launch Guide 
 
-A concise, step-by-step guide to launch and manage an Amazon EC2 instance. Suitable for adding to a GitHub repository as a README for a DevOps project.
+A concise, step-by-step guide to launch and manage an Amazon EC2 instance.
 
 ---
 
@@ -28,7 +29,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 
 ---
 
-## Quick Steps (GitHub Style)
+## Quick Steps
 
 ```markdown
 1. Login to AWS Management Console
@@ -185,11 +186,4 @@ aws ec2 terminate-instances --instance-ids i-0123456789abcdef0
 
 ---
 
-## Next steps
-
-* Convert this README to a Git repo and push to GitHub.
-* Add a `scripts/` folder for provisioning scripts and a `terraform/` folder for IaC.
-
----
-
-*Created for AWS & DevOps learners. Feel free to modify AMI IDs, instance types, and scripts to match your project.*
+## ... Thank You ...
