@@ -1,4 +1,3 @@
-AMI Complete Guide
 # 📌 Amazon Machine Image (AMI) - Complete Step-by-Step Guide
 
 ---
@@ -50,23 +49,23 @@ aws ec2 create-image \
   --no-reboot
 
 
-📌 Check AMI status:
+## 📌 Check AMI status:
 
 aws ec2 describe-images --image-ids ami-0abc1234
 aws ec2 describe-image-status --image-ids ami-0abc1234
 
-5️⃣ Wait for AMI & Snapshot Creation
+## 5️⃣ Wait for AMI & Snapshot Creation
 
 AMI becomes available after snapshots complete
 
 Snapshots cost storage → monitor usage
 
-6️⃣ Launch Instances from the AMI
-▶️ Console
+## 6️⃣ Launch Instances from the AMI
+## ▶️ Console
 
 EC2 → AMIs → Select AMI → Launch → Configure instance → Launch
 
-▶️ AWS CLI
+## ▶️ AWS CLI
 aws ec2 run-instances \
   --image-id ami-0abc1234 \
   --count 1 \
@@ -75,7 +74,7 @@ aws ec2 run-instances \
   --security-group-ids sg-0123abcd \
   --subnet-id subnet-0ab1c2d3
 
-7️⃣ Share / Copy / Make Public
+## 7️⃣ Share / Copy / Make Public
 ✔ Share with specific AWS Accounts
 aws ec2 modify-image-attribute \
   --image-id ami-0abc1234 \
@@ -91,7 +90,7 @@ aws ec2 copy-image \
 
 Use modify-image-attribute with "all"
 
-8️⃣ Update / Recreate AMIs (Immutable Approach)
+## 8️⃣ Update / Recreate AMIs (Immutable Approach)
 
 Never patch AMI directly
 
@@ -105,7 +104,7 @@ Create new AMI (versioning)
 
 Update Launch Templates / Terraform with new AMI ID
 
-9️⃣ Automate AMI Builds (Recommended)
+## 9️⃣ Automate AMI Builds (Recommended)
 
 Use automation tools:
 
@@ -119,9 +118,19 @@ Process:
 
 Build base image → Provision → Create AMI → Tag → Publish
 
-🔟 Clean up old AMIs and Snapshots
+## 🔟 Clean up old AMIs and Snapshots
 Deregister AMI
 aws ec2 deregister-image --image-id ami-0abc1234
 
 Delete snapshots separately!
 aws ec2 delete-snapshot --snapshot-id snap-0123456789abcdef0
+
+## 1️⃣1️⃣ Useful Commands Summary
+Purpose	Command
+Create AMI	aws ec2 create-image
+List AMIs	aws ec2 describe-images --owners self
+Launch instance	aws ec2 run-instances
+Share AMI	aws ec2 modify-image-attribute
+Copy to region	aws ec2 copy-image
+Deregister	aws ec2 deregister-image
+List Snapshots	aws ec2 describe-snapshots
