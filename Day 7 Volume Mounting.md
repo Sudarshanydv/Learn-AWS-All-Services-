@@ -3,19 +3,17 @@ I learned how to attach, mount, unmount, and re-attach an EBS Volume to an EC2 i
 This is extremely useful in real DevOps environments where applications need reliable and durable storage.
 
 ## 👉 Key things I learned today:
+| Concept                   | Explanation                                                          |
+| ------------------------- | -------------------------------------------------------------------- |
+| **EBS Volume Importance** | Provides persistent and durable storage for EC2 instances            |
+| **Block-Level Storage**   | Works like a virtual hard disk and supports file systems & databases |
+| **Data Persistence**      | Data remains safe even after unmounting or EC2 stop/start            |
+| **File System Support**   | Can format volume using **EXT4** or **XFS** before mounting          |
+| **Disk Verification**     | `lsblk` command helps check available disks and mount points         |
+| **Safe Unmounting**       | Always unmount before detaching to prevent **data corruption**       |
+| **Attach to Another EC2** | Volume can be detached and reattached to another instance easily     |
+| **Best Use Cases**        | Ideal for **databases, logs, backups, and application storage**      |
 
-What an EBS Volume is and why it’s important
-Block-level storage that behaves like a virtual hard disk
-Data stays safe even after Unmount / EC2 Stop
-Formatting volume with EXT4 / XFS
-Using lsblk to verify attached disks
-Safe unmounting before detaching to avoid data corruption
-Volume can be attached to another EC2 instance easily
-Perfect for databases, logs & application storage
-This learning boosted my confidence in understanding data persistence in AWS & DevOps workflows. 🚀💪
-Every day = One step closer to becoming a Cloud Expert ☁️✨
-If you found this helpful, let’s connect and learn together! 🤝😊
-Learning grows when shared! 💙
 
 # 📌 AWS EBS Volume Mounting – Step-by-Step Guide
 
@@ -129,12 +127,12 @@ sudo mkdir /home/ec2-user/test
 sudo mount /dev/xvdf /home/ec2-user/test
 
 ## 🔗 Connect With Me
-GitHub: https://lnkd.in/d2F3JPa3
-Dev.to Blog: https://lnkd.in/dNtgqAME
-LinkedIn: https://lnkd.in/d3NctxFT
-Resume (Google Drive): https://lnkd.in/dHDNsd_D
+| 🌐 Platform                  | 🔗 Link                                              |
+| ---------------------------- | ---------------------------------------------------- |
+| 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
+| ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
+| 💼 **LinkedIn**              | [https://lnkd.in/d3NctxFT](https://lnkd.in/d3NctxFT) |
+| 📄 **Resume (Google Drive)** | [https://lnkd.in/dHDNsd_D](https://lnkd.in/dHDNsd_D) |
 
 ## 🔖 Hashtags
-hashtag#AWS hashtag#DevOps hashtag#CloudComputing hashtag#AWSLearning
-hashtag#EBS hashtag#VolumeMounting hashtag#DataPersistence
-hashtag#LearningJourney hashtag#CareerGrowth hashtag#DevOpsEngineer hashtag#AWSCommunity
+#AWS #DevOps #CloudComputing #AWSLearning #EBS #VolumeMounting #DataPersistence #LearningJourney #CareerGrowth #DevOpsEngineer #AWSCommunity
