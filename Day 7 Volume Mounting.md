@@ -48,77 +48,63 @@ Copy code
 
 ---
 
-## 🖥 Step 4: Mounting The Volume in Linux (Terminal)
-
-### Check available disks
-```bash
+## Step 4: Mounting The Volume in Linux (Terminal)
+📌 Check available disks
 lsblk
-Check if volume contains data
-bash
-Copy code
+
+📌 Check if volume contains data
 sudo file -s /dev/xvdf
-Format the volume (Fresh Volume Only)
-bash
-Copy code
+
+📌 Format the volume (Fresh Volume Only)
 sudo mkfs -t xfs /dev/xvdf
-# OR
+## OR
 sudo mkfs.ext4 /dev/xvdf
-Create a mount directory
-bash
-Copy code
+
+📌 Create a mount directory
 sudo mkdir /home/ec2-user/test
-Mount the volume
-bash
-Copy code
+
+📌 Mount the volume
 sudo mount /dev/xvdf /home/ec2-user/test
-Confirm mount
-bash
-Copy code
+
+📌 Confirm mount
 lsblk
 
-## 📁 Step 5: Create Files & Folders
-bash
-Copy code
+## 📁 Step 5: Create Files & Folders (Data stored inside EBS volume)
 cd /home/ec2-user/test
 mkdir one two three four five
 touch india pune mumbai
-✔ Data stored inside EBS volume
 
-🔄 Step 6: Unmount Volume
-Go to home directory:
+## 🔄 Step 6: Unmount Volume
 
-bash
-Copy code
+Move back to home directory:
+
 cd ~
+
+
 Unmount:
 
-bash
-Copy code
 sudo umount /dev/xvdf
-📌 Folder looks empty, but data remains in EBS volume
 
-🔁 Step 7: Re-Mount to Verify Data
-bash
-Copy code
+
+## 📌 The folder looks empty but the data remains stored inside the EBS volume.
+
+## 🔁 Step 7: Re-Mount to Verify Data
 sudo mount /dev/xvdf /home/ec2-user/test
 ls /home/ec2-user/test
+
+
 ✔ Your files will appear again!
 
-🔁 Step 8: Attach to Another Instance
+## 🔁 Step 8: Attach to Another Instance
+
 Unmount first:
 
-bash
-Copy code
 sudo umount /dev/xvdf
-Detach Volume → Attach it to another EC2 instance
+
+
+## ➡️ Detach Volume → Attach to another EC2 instance
 
 Mount again:
 
-bash
-Copy code
 sudo mkdir /home/ec2-user/test
 sudo mount /dev/xvdf /home/ec2-user/test
-🎯 All previously created data is visible!
-
-❓ Interview Questions & Answers
-Question	
