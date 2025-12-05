@@ -1,60 +1,6 @@
-# aws-eip-sg-guide
-
-A small, GitHub-ready repository that explains **Elastic IP (EIP)**, **Inbound (IN) rules**, and **Outbound (OUT) rules** in AWS — with clear explanations, best-practices, examples, and ready-to-run commands (AWS CLI & Terraform) designed so you can `git push` this repo to GitHub and share or use it as a learning lab.
-
----
-
-## Repo structure
-
-```
-aws-eip-sg-guide/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── docs/
-│   ├── 01_eip.md
-│   └── 02_security_groups.md
-├── examples/
-│   ├── aws-cli/
-│   │   └── setup_ec2_eip_sg.sh
-│   └── terraform/
-│       ├── main.tf
-│       ├── variables.tf
-│       └── outputs.tf
-└── templates/
-    └── user-data.txt
-```
-
----
-
-> **How to use:** clone this repository locally, read the docs in `/docs`, then try the examples in `/examples/aws-cli` (quick) or `/examples/terraform` (infrastructure-as-code). The scripts assume you have AWS credentials configured (`aws configure`) and appropriate IAM permissions.
-
----
-
-## Files included (summary)
-
-* `README.md` — high level overview + quick start.
-* `docs/01_eip.md` — full explanation of Elastic IP: use-cases, behaviour, costs, examples.
-* `docs/02_security_groups.md` — inbound/outbound rules, stateful vs stateless, SG vs NACL, examples & best practices.
-* `examples/aws-cli/setup_ec2_eip_sg.sh` — bash script that:
-
-  * launches a small EC2 instance (Amazon Linux 2)
-  * creates a security group with recommended inbound/outbound rules
-  * allocates an Elastic IP and associates it to the instance
-  * prints connection details
-* `examples/terraform/*` — minimal Terraform configuration to create VPC, subnet, security group, EC2 instance, and an Elastic IP associated to the instance.
-* `templates/user-data.txt` — simple Apache install user-data for the EC2 instance to show a web page on `http://<EIP>`.
-* `LICENSE` — MIT license.
-* `.gitignore` — common ignores (credentials, .terraform, etc.).
-
----
-
-If you'd like, I can also:
-
-* Create a ZIP of the repo here for direct download; or
-* Push it to a GitHub repository (I can give you the `git` commands and a ready `git remote add` snippet) — you will need to run the commands locally.
-
----
+# 📅 Day 8 — Inbound & Outbound Rules in AWS Security Groups
+Security Groups act as a virtual firewall in AWS that protect EC2 instances from unwanted traffic and ensure secure communication.
+Today, I learned how Inbound and Outbound rules work — a critical skill for deploying secure applications in real DevOps workflows.---
 
 ## AWS Networking — EIP + Inbound + Outbound Rules
 
