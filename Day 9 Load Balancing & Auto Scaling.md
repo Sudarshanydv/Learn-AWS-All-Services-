@@ -1,4 +1,4 @@
-# 🚀 Load Balancing + Auto Scaling in AWS | Broad Explanation
+# 📅 Day 9 🚀 Load Balancing + Auto Scaling in AWS | Broad Explanation
    
 In real-world applications, traffic is not always constant. Sometimes we get **high traffic** (festive sale, new feature release) and sometimes traffic is **very low**.  
 To handle this automatically, AWS provides two major services:
@@ -78,4 +78,30 @@ When sale ends and traffic drops:
 ---
 
 ## 🛠 Architecture Diagram (Simple)
+            Users
+              |
+      +----------------+
+      | Load Balancer  |
+      +----------------+
+       /      |       \
+   EC2-1   EC2-2    EC2-3  <-- Auto Scaling Group
+       \      |       /
+    CloudWatch Metrics
+         |     |
+   Auto Scaling Policy
+
+   ## Thank You
+
+## 🔗 Connect With Me
+| 🌐 Platform                  | 🔗 Link                                              |
+| ---------------------------- | ---------------------------------------------------- |
+| 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
+| ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
+| 💼 **LinkedIn**              | [https://lnkd.in/d3NctxFT](https://lnkd.in/d3NctxFT) |
+| 📄 **Resume (Google Drive)** | [https://lnkd.in/dHDNsd_D](https://lnkd.in/dHDNsd_D) |
+
+## 🔖 Hashtags
+#AWS #DevOps #CloudComputing #AWSLearning #EBS #VolumeMounting #DataPersistence #LearningJourney #CareerGrowth #DevOpsEngineer #AWSCommunity
+
+
 
