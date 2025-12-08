@@ -1,10 +1,9 @@
-📅 Day 10 🚀 AWS CloudWatch | Monitoring Made Easy
+## 📅 Day 10 🚀 AWS CloudWatch | Monitoring Made Easy
 
 In real AWS projects, we must always monitor our resources like EC2, RDS, Lambda, and applications to make sure everything is running smoothly.
-
 To do this, AWS provides CloudWatch — a powerful monitoring and observability service.
 
-CloudWatch helps us:
+## CloudWatch helps us:
 
 ✔ Track metrics like CPU, Memory, and Network
 ✔ Monitor logs for debugging issues
@@ -87,12 +86,6 @@ CloudWatch helps you:
 - ✔ Fast troubleshooting using logs & alerts
 - ✔ Central monitoring for all AWS services
 - ✔ Automation using alarms + Lambda/EventBridge
-
----
-
-## 🔚 Short Interview Summary
-
-> **CloudWatch is a monitoring and alerting service in AWS that collects metrics, logs, and events to improve performance, reliability, and automation of cloud resources.**
 
 ---
 
