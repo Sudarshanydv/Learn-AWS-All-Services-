@@ -1,4 +1,4 @@
-## 📅 Day 11 🚀 Amazon S3 | Simple & Secure Cloud Storage
+# 📅 Day 11 🚀 Amazon S3 | Simple & Secure Cloud Storage
 In AWS DevOps projects, storing data safely and accessing it anytime is very important.
 AWS provides Amazon S3 — a highly scalable object storage service used worldwide.
 
@@ -97,3 +97,19 @@ Go to: **Management → Lifecycle rules**
 Example Rules:
 - After **30 days** → Move to **Standard-IA**
 - After **90 days** → Move to **Glacier**
+
+  ---
+
+## Thank You
+
+## 🔗 Connect With Me
+| 🌐 Platform                  | 🔗 Link                                              |
+| ---------------------------- | ---------------------------------------------------- |
+| 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
+| ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
+| 💼 **LinkedIn**              | [https://lnkd.in/d3NctxFT](https://lnkd.in/d3NctxFT) |
+| 📄 **Resume (Google Drive)** | [https://lnkd.in/dHDNsd_D](https://lnkd.in/dHDNsd_D) |
+
+## 🔖 Hashtags
+#AWS #DevOps #CloudComputing #AWSLearning #EBS #VolumeMounting #DataPersistence #LearningJourney #CareerGrowth #DevOpsEngineer #AWSCommunity
+
