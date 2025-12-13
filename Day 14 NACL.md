@@ -1,8 +1,3 @@
-## 📅 Day 15 | AWS SNS & SQS — Messaging Services in AWS 🚀
-
-Today, I learned about AWS SNS (Simple Notification Service) and AWS SQS (Simple Queue Service), which are core messaging services used in AWS & DevOps architectures for communication between applications and services.
-These services help in building decoupled, scalable, and reliable systems.
-
 # 📅 Day 14 | AWS NACL — Subnet-Level Security in AWS 🔐
  
 **NACL (Network Access Control List)** is a subnet-level firewall in AWS VPC.  
