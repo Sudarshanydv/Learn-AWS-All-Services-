@@ -81,6 +81,84 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
 ```
+
+## 🔹 Step 2: Create Stack
+
+- AWS Console → CloudFormation  
+- Click **Create Stack**  
+- Upload template  
+- Enter stack name  
+- Click **Create**
+
+---
+
+## 🔹 Step 3: Stack Creation
+
+CloudFormation:
+- Creates resources automatically  
+- Handles dependencies  
+- Shows status: `CREATE_COMPLETE`
+
+---
+
+## 🔹 Step 4: Update Stack
+
+- Modify template  
+- Click **Update Stack**  
+- Resources update automatically
+
+---
+
+## 🔹 Step 5: Delete Stack
+
+- Delete stack  
+- All resources are deleted safely
+
+---
+
+## 🔹 CloudFormation vs Terraform (Interview)
+
+| Feature | CloudFormation | Terraform |
+|------|---------------|-----------|
+| Provider | AWS only | Multi-cloud |
+| Language | YAML / JSON | HCL |
+| State | AWS managed | Local / Remote |
+| Owner | AWS | HashiCorp |
+
+---
+
+## 🔹 CloudFormation Usage in DevOps
+
+| Tool | Usage |
+|----|-----|
+| Jenkins | Infra automation |
+| CI/CD | Stack deployment |
+| Git | Template versioning |
+| CodePipeline | IaC workflow |
+| DevOps Teams | Environment setup |
+
+---
+
+## 🔹 Common Interview Questions
+
+**Q1:** What is CloudFormation?  
+✔ Infrastructure as Code service in AWS.
+
+**Q2:** Supported template formats?  
+✔ YAML and JSON.
+
+**Q3:** What is a Stack?  
+✔ Deployed template.
+
+**Q4:** Does CloudFormation support rollback?  
+✔ Yes.
+
+---
+
+## 🔹 One-Line Interview Answer
+
+**AWS CloudFormation is an Infrastructure as Code service used to automate AWS resources using YAML or JSON templates.**
+
 ---
 
 ## Thank You
