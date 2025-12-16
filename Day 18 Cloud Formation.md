@@ -1,4 +1,4 @@
-# 📅 Day 18 | AWS CloudFormation — Infrastructure as Code (IaC) in AWS 🏗️☁️
+# 📅 Day 18 | AWS CloudFormation — Infrastructure as Code (IaC) in AWS ☁️
 
 Today, I learned about **AWS CloudFormation**, which is an **Infrastructure as Code (IaC)** service that helps create, update, and delete AWS resources automatically using **YAML or JSON templates**.
 
