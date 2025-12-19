@@ -30,7 +30,7 @@ from **edge locations** (servers near users) to provide **low latency and high s
 - Secure and scalable content delivery
 
 ---
-
+ 
 ## 2. Why CloudFront is Important in DevOps?
 
 In DevOps, applications are deployed frequently and accessed globally.
