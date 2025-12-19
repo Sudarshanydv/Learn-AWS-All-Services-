@@ -10,7 +10,7 @@ CloudFront helps in building **highly available, low-latency, and secure applica
 
 # Amazon CloudFront in AWS DevOps – Step-by-Step Guide
 
-## 1. What is Amazon CloudFront?
+## 1. What is Amazon CloudFront? 
 
 Amazon CloudFront is a **Content Delivery Network (CDN)** service provided by AWS.
 
