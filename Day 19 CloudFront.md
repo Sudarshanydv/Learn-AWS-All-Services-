@@ -22,7 +22,7 @@ It delivers content like:
 - Videos
 - APIs
 
-from **edge locations** (servers near users) to provide **low latency and high speed**.
+from **edge locations** (servers near users) to provide **low latency and high speed**. 
 
 **Main Goal:**
 - Faster website performance
