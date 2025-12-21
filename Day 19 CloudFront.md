@@ -1,4 +1,4 @@
-## 📅 Day 19 | Amazon CloudFront — Content Delivery Network (CDN) in AWS 🌍⚡
+ ## 📅 Day 19 | Amazon CloudFront — Content Delivery Network (CDN) in AWS 🌍⚡
 
 Today, I learned about **Amazon CloudFront**, which is a **fast, secure, and scalable Content Delivery Network (CDN)** service provided by AWS.
 
@@ -7,7 +7,7 @@ CloudFront delivers **web content, images, videos, APIs, and static files** to u
 CloudFront helps in building **highly available, low-latency, and secure applications**, making it an essential service in **DevOps and cloud-native architectures**.
 
 ---    
-
+ 
 # Amazon CloudFront in AWS DevOps – Step-by-Step Guide
    
 ## 1. What is Amazon CloudFront? 
