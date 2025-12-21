@@ -27,7 +27,7 @@ from **edge locations** (servers near users) to provide **low latency and high s
 **Main Goal:**
 - Faster website performance
 - Reduced load on backend servers 
-- Secure and scalable content delivery 
+- Secure and scalable content delivery  
 
 --- 
  
