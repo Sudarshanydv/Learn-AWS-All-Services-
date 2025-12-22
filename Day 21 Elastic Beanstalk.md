@@ -117,7 +117,7 @@ Configuration methods:
 ## CI/CD with Elastic Beanstalk
 
 Typical DevOps pipeline:
-
+ 
 ```
 Git → Jenkins / GitHub Actions → Build → Deploy to Elastic Beanstalk
 ```
