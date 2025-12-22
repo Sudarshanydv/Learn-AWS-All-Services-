@@ -111,7 +111,7 @@ Configuration methods:
 * AWS Console
 * AWS CLI
 * `.ebextensions` (YAML configuration files)
-
+ 
 ---
 
 ## CI/CD with Elastic Beanstalk
