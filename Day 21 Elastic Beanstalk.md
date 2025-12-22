@@ -13,7 +13,7 @@ With Elastic Beanstalk, you can deploy applications quickly and reliably, making
 **AWS Elastic Beanstalk** is a **Platform as a Service (PaaS)** that helps you **deploy, manage, and scale applications automatically** without worrying about the underlying infrastructure.
 
 You just upload your **application code**, and Elastic Beanstalk automatically handles:
-
+ 
 * EC2 instances
 * Load Balancer
 * Auto Scaling
