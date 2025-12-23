@@ -22,7 +22,7 @@ If you’re learning AWS networking, mastering NACL is a key step in building se
 **NACL (Network Access Control List)** is a **network-level firewall** that controls traffic going **in and out of a subnet** in a VPC.
 
 Think of it as a **security gate for each subnet**.
-
+ 
 ---
 
 ## 🔥 Why NACL is important in DevOps?
