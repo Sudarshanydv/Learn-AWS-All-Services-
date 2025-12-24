@@ -21,7 +21,7 @@ You just upload your **application code**, and Elastic Beanstalk automatically h
 * Application updates 
 
 ---
-
+ 
 ## Why DevOps Engineers Use Elastic Beanstalk 
 
 Elastic Beanstalk is useful when: 
