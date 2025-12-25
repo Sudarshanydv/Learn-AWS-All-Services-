@@ -18,7 +18,7 @@ Unlike relational databases (RDS), DynamoDB is **non-relational**, meaning it do
 * Setup and configuration  
 * Replication and software patching
 * Cluster scaling 
- 
+  
 ---
 
 ## Why DevOps Engineers Use DynamoDB 
