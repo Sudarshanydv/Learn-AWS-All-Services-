@@ -109,6 +109,9 @@ Since you can only query by Primary Key, you use Indexes to query other attribut
 > *AWS DynamoDB is a fully managed, serverless NoSQL database that provides consistent, single-digit millisecond latency at any scale. It supports both document and key-value data models, offers built-in security, backup/restore, and multi-region replication via Global Tables.*
 
 ---
+
+<img width="1024" height="1024" alt="ad" src="https://github.com/user-attachments/assets/4ee7a412-55a2-4335-85aa-9e4ebd10f79d" />
+
 > ## Thank You
 
 ## 🔗 Connect With Me
