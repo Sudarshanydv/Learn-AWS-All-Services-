@@ -14,7 +14,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - Used to send notifications and alerts
 
 ### Messaging Model
-- Publish / Subscribe (Pub-Sub)
+-  Publish / Subscribe (Pub-Sub)
 
 ### Flow
 
