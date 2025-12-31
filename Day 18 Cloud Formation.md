@@ -23,7 +23,7 @@ YAML / JSON
 - Automatic rollback on failure
 - Fully managed by AWS 
 
----
+--- 
 
 ## 🔹 Why We Use CloudFormation in DevOps
 
