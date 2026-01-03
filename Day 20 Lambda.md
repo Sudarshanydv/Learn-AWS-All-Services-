@@ -23,7 +23,7 @@ You can use Lambda to:
 
 * Python
 * Node.js
-* Java
+* Java 
 * Go
 * C#
 
