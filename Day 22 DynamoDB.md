@@ -3,7 +3,7 @@
 Today, I learned about **AWS DynamoDB**, a fully managed, serverless, NoSQL database service designed to provide fast and predictable performance with seamless scalability.
 
 DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It’s a favorite for DevOps and Cloud Engineers because it removes the administrative burden of operating and scaling distributed databases.
- 
+  
 ---      
 
 # ⚡ AWS DynamoDB – DevOps Explanation   
@@ -115,7 +115,7 @@ Since you can only query by Primary Key, you use Indexes to query other attribut
 > ## Thank You
 
 ## 🔗 Connect With Me
-| 🌐 Platform                  | 🔗 Link                                              |
+| 🌐 Platform                  | 🔗 Link                                             |
 | ---------------------------- | ---------------------------------------------------- |
 | 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
 | ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
