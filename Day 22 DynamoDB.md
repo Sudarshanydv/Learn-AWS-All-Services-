@@ -15,7 +15,7 @@ DynamoDB is a key-value and document database that delivers single-digit millise
 Unlike relational databases (RDS), DynamoDB is **non-relational**, meaning it doesn't use fixed schemas or complex joins. AWS handles the:
 
 * Hardware provisioning 
-* Setup and configuration   
+* Setup and configuration    
 * Replication and software patching 
 * Cluster scaling  
     
