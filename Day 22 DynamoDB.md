@@ -6,7 +6,7 @@ DynamoDB is a key-value and document database that delivers single-digit millise
  
 ---      
 
-# ⚡ AWS DynamoDB – DevOps Explanation  
+# ⚡ AWS DynamoDB – DevOps Explanation   
 
 ## What is AWS DynamoDB?
 
