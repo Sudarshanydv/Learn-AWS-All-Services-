@@ -7,7 +7,7 @@ If you’re learning AWS networking, mastering NACL is a key step in building se
  
 ---
    
-## 🔥 Why NACL Is Important in AWS & DevOps 
+## 🔥 Why NACL Is Important in AWS & DevOps  
 
 - 🛡️ Adds an extra layer of security at the **subnet** level  
 - 🔁 Controls inbound & outbound traffic (stateless)   
