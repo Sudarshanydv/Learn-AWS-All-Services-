@@ -8,7 +8,7 @@ With Elastic Beanstalk, you can deploy applications quickly and reliably, making
  
 # 🌱 AWS Elastic Beanstalk – DevOps Explanation  
   
-## What is AWS Elastic Beanstalk? 
+## What is AWS Elastic Beanstalk?  
 
 **AWS Elastic Beanstalk** is a **Platform as a Service (PaaS)** that helps you **deploy, manage, and scale applications automatically** without worrying about the underlying infrastructure.
 
