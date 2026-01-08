@@ -8,7 +8,7 @@ CloudFormation is widely used in DevOps to deploy infrastructure in a **repeatab
    
 ## 🏗️ AWS CloudFormation (DevOps – Infrastructure Automation)   
      
-### 🔹 Amazon CloudFormation 
+### 🔹 Amazon CloudFormation  
  
 **Service Type**    
 Infrastructure as Code (IaC)  
