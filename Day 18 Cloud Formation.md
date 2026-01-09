@@ -12,7 +12,7 @@ CloudFormation is widely used in DevOps to deploy infrastructure in a **repeatab
  
 **Service Type**      
 Infrastructure as Code (IaC)  
- 
+  
 **Template Format**    
 YAML / JSON  
 
