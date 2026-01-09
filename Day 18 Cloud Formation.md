@@ -4,7 +4,7 @@ Today, I learned about **AWS CloudFormation**, which is an **Infrastructure as C
   
 CloudFormation is widely used in DevOps to deploy infrastructure in a **repeatable, consistent, and automated way**.
       
----             
+---              
           
 ## 🏗️ AWS CloudFormation (DevOps – Infrastructure Automation)   
       
