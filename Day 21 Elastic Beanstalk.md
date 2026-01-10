@@ -1,4 +1,4 @@
-# 📅 Day 21 | AWS Elastic Beanstalk — Platform as a Service (PaaS) in AWS 🌱☁️
+ # 📅 Day 21 | AWS Elastic Beanstalk — Platform as a Service (PaaS) in AWS 🌱☁️
 
 Today, I learned about AWS Elastic Beanstalk, which is a fully managed Platform as a Service (PaaS) provided by AWS to deploy, manage, and scale applications automatically.
 
