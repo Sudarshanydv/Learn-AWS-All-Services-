@@ -5,7 +5,7 @@ Today, I learned about AWS Elastic Beanstalk, which is a fully managed Platform 
 Elastic Beanstalk allows developers and DevOps engineers to focus only on application code, while AWS handles the infrastructure provisioning, scaling, load balancing, monitoring, and updates.    
       
 With Elastic Beanstalk, you can deploy applications quickly and reliably, making it a powerful service for DevOps workflows and cloud-native architectures.
-  
+   
 # 🌱 AWS Elastic Beanstalk – DevOps Explanation     
    
 ## What is AWS Elastic Beanstalk?  
