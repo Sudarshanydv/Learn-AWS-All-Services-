@@ -2,7 +2,7 @@
 
 Today, I learned about **AWS DynamoDB**, a fully managed, serverless, NoSQL database service designed to provide fast and predictable performance with seamless scalability.
 
-DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It’s a favorite for DevOps and Cloud Engineers because it removes the administrative burden of operating and scaling distributed databases. 
+DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It’s a favorite for DevOps and Cloud Engineers because it removes the administrative burden of operating and scaling distributed databases.  
   
 ---        
 
