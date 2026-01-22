@@ -5,7 +5,7 @@ Today, I learned about **Amazon CloudFront**, which is a **fast, secure, and sca
 CloudFront delivers **web content, images, videos, APIs, and static files** to users from **edge locations** (servers closest to users), reducing latency and improving performance.
 
 CloudFront helps in building **highly available, low-latency, and secure applications**, making it an essential service in **DevOps and cloud-native architectures**.
-    
+     
 ---            
        
 # Amazon CloudFront in AWS DevOps – Step-by-Step Guide
