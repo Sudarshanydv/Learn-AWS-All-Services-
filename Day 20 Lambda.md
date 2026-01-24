@@ -5,7 +5,7 @@ Today, I learned about **AWS Lambda**, a **serverless compute service** provided
 With Lambda, you only focus on **writing code**, and AWS automatically handles **infrastructure, scaling, and availability**. You pay **only for the execution time**, making it highly cost-effective and scalable. 
   
 AWS Lambda is a core service in **modern DevOps and cloud-native architectures**.  
-     
+      
 ---  
      
 ## 🔹 What is AWS Lambda? 
