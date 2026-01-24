@@ -7,7 +7,7 @@ With Lambda, you only focus on **writing code**, and AWS automatically handles *
 AWS Lambda is a core service in **modern DevOps and cloud-native architectures**.  
       
 ---   
-     
+      
 ## 🔹 What is AWS Lambda? 
 
 AWS Lambda allows you to run code in response to **events**.
