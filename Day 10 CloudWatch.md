@@ -4,7 +4,7 @@ In real AWS projects, we must always monitor our resources like EC2, RDS, Lambda
 To do this, AWS provides CloudWatch — a powerful monitoring and observability service. 
 
 ## CloudWatch helps us:   
-
+ 
 ✔ Track metrics like CPU, Memory, and Network 
 ✔ Monitor logs for debugging issues
 ✔ Set Alarms for alerts
