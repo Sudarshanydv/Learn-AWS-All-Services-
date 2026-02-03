@@ -37,7 +37,7 @@ CloudWatch helps you:
 
 - 🔹 Check CPU / Memory / Network usage
 - 🔹 Monitor application logs
-- 🔹 Set alarms when something is wrong
+- 🔹 Set alarms when something is wrong 
 - 🔹 Automatically stop, start, or scale resources
 - 🔹 Trace real-time performance
 
