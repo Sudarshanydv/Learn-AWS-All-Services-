@@ -9,7 +9,7 @@ These services help in building decoupled, scalable, and reliable systems.
  
 ### Service Type
 - Push-based messaging service
-
+ 
 ### Main Purpose   
 - Used to send notifications and alerts
 
