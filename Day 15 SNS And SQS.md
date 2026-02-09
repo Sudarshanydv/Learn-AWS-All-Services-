@@ -7,7 +7,7 @@ These services help in building decoupled, scalable, and reliable systems.
  
 ## 🔔 AWS SNS (Simple Notification Service)     
  
-### Service Type
+### Service Type 
 - Push-based messaging service
  
 ### Main Purpose   
