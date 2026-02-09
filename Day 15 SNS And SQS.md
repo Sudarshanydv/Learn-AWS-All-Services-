@@ -3,7 +3,7 @@
 Today, I learned about AWS SNS (Simple Notification Service) and AWS SQS (Simple Queue Service), which are core messaging services used in AWS & DevOps architectures for communication between applications and services.
 These services help in building decoupled, scalable, and reliable systems.
  
-# 🔔 AWS SNS & 📦 AWS SQS (DevOps – Point to Point) 
+# 🔔 AWS SNS & 📦 AWS SQS (DevOps – Point to Point)  
  
 ## 🔔 AWS SNS (Simple Notification Service)    
  
