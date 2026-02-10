@@ -11,7 +11,7 @@ If you are also learning AWS, DevOps, Cloud, CI/CD, Docker, Kubernetes, Linux, G
   
 🔔 Follow me for:   
  
-Daily learning updates 
+Daily learning updates  
 
 Step-by-step concepts explanation 
 
