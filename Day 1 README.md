@@ -13,7 +13,7 @@ If you are also learning AWS, DevOps, Cloud, CI/CD, Docker, Kubernetes, Linux, G
  
 Daily learning updates 
 
-Step-by-step concepts explanation
+Step-by-step concepts explanation 
 
 Practical demos and mini-projects
 
