@@ -2,7 +2,7 @@
      
 In real-world applications, traffic is not always constant. Sometimes we get **high traffic** (festive sale, new feature release) and sometimes traffic is **very low**.  
 To handle this automatically, AWS provides two major services:
- 
+  
 ---
  
 ## 🔹 1️⃣ Load Balancing (ELB – Elastic Load Balancer) 
