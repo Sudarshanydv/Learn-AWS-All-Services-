@@ -5,7 +5,7 @@ To handle this automatically, AWS provides two major services:
 
 ---
  
-## 🔹 1️⃣ Load Balancing (ELB – Elastic Load Balancer)
+## 🔹 1️⃣ Load Balancing (ELB – Elastic Load Balancer) 
 
 Load Balancer acts like a **traffic manager**. It receives all incoming traffic and **distributes it across multiple servers (EC2 instances)**.
 
