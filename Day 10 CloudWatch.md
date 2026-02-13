@@ -7,7 +7,7 @@ To do this, AWS provides CloudWatch — a powerful monitoring and observability 
  
 ✔ Track metrics like CPU, Memory, and Network 
 ✔ Monitor logs for debugging issues 
-✔ Set Alarms for alerts
+✔ Set Alarms for alerts 
 ✔ Automate actions like Auto-Scaling or restarting instances
 ✔ Analyze performance in real-time through dashboards
 
