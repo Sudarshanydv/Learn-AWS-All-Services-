@@ -123,7 +123,6 @@ Yes → Restore fast but **lazy loading** takes time for full data.
 - **GitHub:** https://lnkd.in/d2F3JPa3  
 - **Dev.to Blog:** https://lnkd.in/dNtgqAME  
 - **LinkedIn:** https://lnkd.in/d3NctxFT  
-- **Resume (Google Drive):** https://lnkd.in/dHDNsd_D  
 
 ---
 
