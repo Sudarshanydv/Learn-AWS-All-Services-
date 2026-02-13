@@ -3,7 +3,6 @@
 GitHub: https://github.com/Sudarshanydv
 Dev.to Blog: https://dev.to/sudarshan_yadav
 LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
-Resume (Drive) - https://drive.google.com/file/d/1jas-UeQuCSR6OZCP6pAPTnLiWcJiAVk1/view?usp=drive_link
 
 # 🚀 My Web Hosting Journey with AWS EC2 – Step-by-Step Deployment Guide
 
