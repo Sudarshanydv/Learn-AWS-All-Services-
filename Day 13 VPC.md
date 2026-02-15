@@ -9,7 +9,7 @@ Understanding VPC = understanding how your entire cloud infrastructure communica
  
 ## 🔥 Why VPC Is Essential
 
-- 🛡️ Designing secure architectures  
+- 🛡️ Designing secure architectures   
 - 🌐 Creating public & private networks   
 - 🚀 Enabling internet access with **Internet Gateway (IGW)** & **NAT Gateway**  
 - 🔗 Connecting environments using **VPC Peering**  
