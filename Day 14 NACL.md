@@ -4,7 +4,7 @@
 It controls what traffic is allowed **in and out of each subnet**, acting like a security gate at the subnet boundary.
 
 If you’re learning AWS networking, mastering NACL is a key step in building secure cloud architectures.
- 
+  
 ---
     
 ## 🔥 Why NACL Is Important in AWS & DevOps    
