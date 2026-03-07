@@ -28,7 +28,7 @@ Allows private subnet instances to access the internet outbound only, but blocks
 
 ### 5️⃣ Route Table
 
-Controls how traffic flows between subnets and external networks.
+Controls how traffic flows between subnets and external networks. 
 
 ### 6️⃣ Security Groups
  
