@@ -8,7 +8,7 @@ IAM plays a crucial role in:
 - CI/CD automation  
 - Service-to-service communication  
 - DevOps workflows  
-- Cloud security best practices  
+- Cloud security best practices   
 
 Mastering IAM means mastering **security + automation + access control**, which is the foundation of working in AWS and DevOps.
 
