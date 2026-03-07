@@ -10,7 +10,7 @@ Networking = How systems communicate (within cloud, between servers, and with th
 A VPC is your private network inside AWS where you can launch resources like EC2, databases, and load balancers.
 It works like your own secure isolated data center in the cloud.
 
-### 2️⃣ Subnets
+### 2️⃣ Subnets 
 
 A subnet divides your VPC network into smaller sections:
 
