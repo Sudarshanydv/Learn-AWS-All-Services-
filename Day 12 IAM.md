@@ -25,7 +25,7 @@ Think of IAM like a security guard:
 - **Groups** = Team permissions  
 
 ---
- 
+  
 # 🧑‍💻 How to Use IAM (Step-by-Step Guide)
 
 ---
