@@ -28,7 +28,7 @@ Think of IAM like a security guard:
   
 # 🧑‍💻 How to Use IAM (Step-by-Step Guide) 
 
----
+--- 
 
 ## ✅ 1. Create IAM Users (for people)
 
