@@ -34,7 +34,7 @@ Think of IAM like a security guard:
 
 Use users for human access, not automation.
 
-### **Steps:**
+### **Steps:** 
 - Go to **AWS Console → IAM → Users** 
 - Click **Create user**
 - Give name (e.g., `devops-user`)
