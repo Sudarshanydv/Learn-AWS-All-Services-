@@ -1,7 +1,7 @@
 # 📅 Day 12 | AWS IAM — The Backbone of AWS Security 🔐☁️
 
 **AWS IAM (Identity and Access Management)** helps us securely control access to AWS services.  
-It is one of the **FIRST things every DevOps engineer must master** because almost all AWS services depend on **IAM Users, Roles, Groups, and Policies**....
+It is one of the **FIRST things every DevOps engineer must master** because almost all AWS services depend on **IAM Users, Roles, Groups, and Policies**.....
 
 IAM plays a crucial role in:
 - Secure access management   
