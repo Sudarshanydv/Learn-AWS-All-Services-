@@ -43,7 +43,7 @@ Use users for human access, not automation.
 - **Enable MFA** (very important!)
 
 **Purpose:** Logging into AWS as a person.
-
+ 
 ---
 
 ## ✅ 2. Create Groups (for teams)
