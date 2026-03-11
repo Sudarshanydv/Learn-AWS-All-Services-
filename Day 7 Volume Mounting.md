@@ -8,7 +8,7 @@ This is extremely useful in real DevOps environments where applications need rel
 | **EBS Volume Importance** | Provides persistent and durable storage for EC2 instances            |
 | **Block-Level Storage**   | Works like a virtual hard disk and supports file systems & databases |
 | **Data Persistence**      | Data remains safe even after unmounting or EC2 stop/start            |
-| **File System Support**   | Can format volume using **EXT4** or **XFS** before mounting          |
+| **File System Support**   | Can format volume using **EXT4** or **XFS** before mounting          | 
 | **Disk Verification**     | `lsblk` command helps check available disks and mount points         |
 | **Safe Unmounting**       | Always unmount before detaching to prevent **data corruption**       |
 | **Attach to Another EC2** | Volume can be detached and reattached to another instance easily     |
