@@ -26,7 +26,7 @@ This is extremely useful in real DevOps environments where applications need rel
 - Create and attach an EBS Volume
 - Mount volume inside Linux EC2 instance
 - Store data and verify persistence
-- Unmount and reattach the same volume to another instance
+- Unmount and reattach the same volume to another instance 
 
 ---
 
