@@ -33,7 +33,7 @@ It collects **metrics, logs, and events** from AWS resources and applications so
 
 In Cloud/DevOps, we must always monitor resources like **EC2, RDS, Lambda, VPC** etc.
 
-CloudWatch helps you:
+CloudWatch helps you: 
 
 - 🔹 Check CPU / Memory / Network usage 
 - 🔹 Monitor application logs
