@@ -10,7 +10,7 @@ To do this, AWS provides CloudWatch — a powerful monitoring and observability 
 ✔ Set Alarms for alerts 
 ✔ Automate actions like Auto-Scaling or restarting instances
 ✔ Analyze performance in real-time through dashboards
-
+ 
 CloudWatch = Monitor + Alert + Logs + Automation
 
 It improves uptime, reduces downtime, and makes cloud operations more efficient — which is very important for DevOps engineers! 🚀
