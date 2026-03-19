@@ -27,7 +27,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
 
 | Use Case      | Reason                    |
 | ------------- | ------------------------- |
-| Web Servers   | Same public IP always     |
+| Web Servers   | Same public IP always     | 
 | Bastion Hosts | Secure admin access       |
 | NAT Instances | Private subnet → Internet |
 | VPN Gateways  | Stable connection point   |
