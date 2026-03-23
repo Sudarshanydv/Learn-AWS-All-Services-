@@ -5,7 +5,7 @@ It is one of the **FIRST things every DevOps engineer must master** because almo
 
 IAM plays a crucial role in: 
 - Secure access management    
-- CI/CD automation    
+- CI/CD automation     
 - Service-to-service communication   
 - DevOps workflows   
 - Cloud security best practices     
