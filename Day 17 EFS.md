@@ -4,7 +4,7 @@ Today, I learned about **Amazon EFS (Elastic File System)**, which is a **fully 
 EFS allows multiple EC2 instances to **read and write data simultaneously**, making it ideal for **DevOps and cloud-native architectures**.
 
 EFS helps in building **highly available, scalable, and persistent storage solutions** for applications running across multiple Availability Zones.
- 
+  
 ---  
  
 # 🗂️ AWS EFS (DevOps – Shared File System)
