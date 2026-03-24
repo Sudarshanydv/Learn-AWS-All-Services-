@@ -37,7 +37,7 @@ Elastic Beanstalk is useful when:
 
 When you deploy an app, Elastic Beanstalk automatically creates:
 
-* **EC2** – runs your application
+* **EC2** – runs your application 
 * **Auto Scaling Group** – handles scaling
 * **Elastic Load Balancer (ALB)** – distributes traffic
 * **Security Groups** – network security
