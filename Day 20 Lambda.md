@@ -60,7 +60,7 @@ Lambda helps DevOps teams by:
 * API Gateway – REST & HTTP APIs
 * Amazon SNS – notifications
 * Amazon SQS – message processing
-* EventBridge – scheduled jobs (cron)
+* EventBridge – scheduled jobs (cron) 
 * DynamoDB Streams – data changes
 
 ---
