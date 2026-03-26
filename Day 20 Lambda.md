@@ -54,7 +54,7 @@ Lambda helps DevOps teams by:
 
 ---
 
-## 🔹 Common Lambda Triggers
+## 🔹 Common Lambda Triggers 
 
 * Amazon S3 – file upload events
 * API Gateway – REST & HTTP APIs
