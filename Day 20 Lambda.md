@@ -63,7 +63,7 @@ Lambda helps DevOps teams by:
 * EventBridge – scheduled jobs (cron) 
 * DynamoDB Streams – data changes
 
----
+--- 
 
 ## 🔹 AWS Lambda in CI/CD (DevOps Use Case)
 
