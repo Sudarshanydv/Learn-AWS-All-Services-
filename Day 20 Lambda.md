@@ -70,7 +70,7 @@ Lambda helps DevOps teams by:
 Typical flow:
 
 1. Code pushed to GitHub
-2. CI/CD pipeline builds & tests
+2. CI/CD pipeline builds & tests 
 3. Lambda function deployed
 4. Event triggers Lambda
 5. Application executes automatically
