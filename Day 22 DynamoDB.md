@@ -53,7 +53,7 @@ DynamoDB is the go-to choice when:
 
 ---
 
-## Capacity Modes (How you pay)
+## Capacity Modes (How you pay).
 
 1. **On-Demand:** You pay per request. Best for unpredictable workloads or new apps.
 2. **Provisioned:** You specify **RCU (Read Capacity Units)** and **WCU (Write Capacity Units)**. Best for predictable traffic and cost control (supports Auto Scaling).
