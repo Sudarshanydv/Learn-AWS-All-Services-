@@ -50,7 +50,7 @@ _______________________________________
 > **“Snapshot is a point-in-time backup of AWS storage like EBS and RDS. We take snapshots before changes and restore them when needed for backup and disaster recovery.”**
 
 ---
-
+ 
 # 📌 AWS Snapshot — 20 Interview Q&A
 
 ## 1️⃣ What is an AWS Snapshot?
