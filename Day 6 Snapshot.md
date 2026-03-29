@@ -38,7 +38,7 @@ _______________________________________
 
 | Feature | Meaning |
 |--------|---------|
-| Incremental | Only changed data stored → saves cost |
+| Incremental | Only changed data stored → saves cost | 
 | Encrypted | Can protect data with KMS |
 | Cross-Region Copy | Useful for disaster recovery |
 | Manual Delete | Old snapshots cost money → delete when not needed |
