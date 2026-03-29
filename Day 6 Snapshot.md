@@ -8,7 +8,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 ## 🔹 EBS Snapshot (EC2 Disk Backup) 
 
 **Steps:**
-1.  Select an EBS Volume  
+1. Select an EBS Volume  
 2. Click **Create Snapshot**  
 3. Snapshot gets stored in S3 (internally by AWS)  
 4. You can restore that snapshot to a new EBS Volume  
