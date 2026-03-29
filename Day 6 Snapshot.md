@@ -45,7 +45,7 @@ _______________________________________
 
 ---
 
-## 🔥 Simple One-Line Answer for Interview
+## 🔥 Simple One-Line Answer for Interview 
 
 > **“Snapshot is a point-in-time backup of AWS storage like EBS and RDS. We take snapshots before changes and restore them when needed for backup and disaster recovery.”**
 
