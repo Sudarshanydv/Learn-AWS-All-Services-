@@ -30,7 +30,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 4. You can restore DB anytime from that snapshot
 
 **Used for:**
-- Database backup  
+- Database backup   
 - Database disaster recovery
 _______________________________________
 
