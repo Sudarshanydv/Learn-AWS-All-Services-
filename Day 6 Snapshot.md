@@ -59,7 +59,7 @@ A snapshot is a **point-in-time backup** of your EBS volume or database.
 ## 2️⃣ Where are EBS snapshots stored?
 Stored **internally in Amazon S3** (fully managed by AWS).
 
-## 3️⃣ Are EBS snapshots full or incremental?
+## 3️⃣ Are EBS snapshots full or incremental? 
 Snapshots are **incremental** → only changed blocks stored.
 
 ## 4️⃣ Why do we take a snapshot?
