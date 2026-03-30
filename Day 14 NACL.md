@@ -28,7 +28,7 @@ Think of it as a **security gate for each subnet**.
 ## 🔥 Why NACL is important in DevOps?
 
 As a DevOps engineer, you work with: 
-
+ 
 - VPC creation   
 - Subnets (public/private)  
 - EC2, Load balancers, NAT  
