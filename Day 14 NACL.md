@@ -15,7 +15,7 @@ If you’re learning AWS networking, mastering NACL is a key step in building se
 - 📦 Protects private subnets (App Servers, Databases, EKS Nodes)  
 - ⚙️ Often used in **secure DevOps infrastructure** (EKS, EC2, CI/CD, Load Balancers)
 
----
+--- 
 
 # 🟧 What is NACL in AWS?
 
