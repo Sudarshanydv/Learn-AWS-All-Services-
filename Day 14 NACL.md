@@ -48,7 +48,7 @@ This is important in DevOps pipelines, deployments, and infra automation.
 
 ---
 
-# 🟦 Key Features of NACL (Easy to Remember)
+# 🟦 Key Features of NACL (Easy to Remember) 
 
 1️⃣ **Subnet-Level Firewall**  
 A NACL is attached to a **subnet**, not an EC2 instance.
