@@ -54,7 +54,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
    - Terminate → Instance deleted (data removed unless backup)
 ```
 
----
+--- 
 
 ## Detailed Steps
 
