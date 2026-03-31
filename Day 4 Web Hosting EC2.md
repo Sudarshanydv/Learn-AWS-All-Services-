@@ -18,7 +18,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 
 > This README is written for AWS & DevOps learners — it uses simple, practical commands and explains choices like AMIs, instance types, security groups, key pairs, EBS, Auto Scaling, and monitoring.
 
----
+--- 
 
 ## Prerequisites
 
