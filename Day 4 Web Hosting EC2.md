@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
 A concise, step-by-step guide to launch and manage an Amazon EC2 instance.
 
 ---
-
+ 
 ## Overview  
 
 Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances) in the AWS cloud. This guide walks you through launching an instance, configuring networking and security, adding storage, connecting, and basic lifecycle management.
