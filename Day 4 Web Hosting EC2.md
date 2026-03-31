@@ -43,7 +43,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 7. Configure Security Group Rules (SSH, HTTP, etc.)
 8. Create/Select Key Pair for secure access
 9. Launch & Connect:
-   - SSH for Linux
+   - SSH for Linux 
    - RDP for Windows
 10. Monitor & Scale:
    - CloudWatch → monitoring
