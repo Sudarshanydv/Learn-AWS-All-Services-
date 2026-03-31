@@ -46,7 +46,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
    - SSH for Linux 
    - RDP for Windows
 10. Monitor & Scale:
-   - CloudWatch → monitoring
+   - CloudWatch → monitoring 
    - Auto Scaling → increase/decrease capacity
    - Load Balancer → distribute traffic
 11. Stop/Terminate when done:
