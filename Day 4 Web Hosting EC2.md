@@ -89,7 +89,7 @@ docker run -d -p 80:80 nginx
 ```
 
 ### 4. Add storage
-
+ 
 * Add an EBS volume (gp3 or gp2). Size depends on application needs.
 * For data persistence, use EBS-backed instances; EBS persists when instance is stopped.
 
