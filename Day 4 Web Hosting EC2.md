@@ -80,7 +80,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 
 ```bash
 #!/bin/bash
-yum update -y
+yum update -y 
 yum install -y docker
 service docker start
 usermod -aG docker ec2-user
