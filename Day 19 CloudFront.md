@@ -40,7 +40,7 @@ CloudFront helps by:
 - Improving performance
 - Reducing server load
 - Integrating with CI/CD pipelines
-- Providing security (HTTPS, WAF)
+- Providing security (HTTPS, WAF) 
 
 ---
 
