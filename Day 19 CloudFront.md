@@ -50,7 +50,7 @@ CloudFront helps by:
 
 1. User requests `www.example.com`
 2. Request goes to the nearest **CloudFront Edge Location**
-3. CloudFront checks cache:
+3. CloudFront checks cache: 
    - If content exists → serve immediately
    - If not → request goes to **Origin**
 4. Origin sends data to CloudFront 
