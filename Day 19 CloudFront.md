@@ -90,7 +90,7 @@ Common origins:
 - Create bucket (example: `my-static-site`)
 - Upload files: `index.html`, `style.css`
 - Enable **Static Website Hosting**
-- Configure permissions or OAC
+- Configure permissions or OAC 
 
 ---
 
