@@ -41,7 +41,7 @@ making it a must-know service for DevOps engineers! 🔥
 
 | Method | Usage | 
 |--------|------|
-| URL / Public Access | Share files or host static websites |
+| URL / Public Access | Share files or host static websites | 
 | IAM Users / Roles | Secure internal access |
 | AWS CLI | Upload / Download using terminal |
 | SDKs (Python, Java, Node.js) | Application-level integration |
