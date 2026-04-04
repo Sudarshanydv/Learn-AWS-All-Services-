@@ -48,7 +48,7 @@ making it a must-know service for DevOps engineers! 🔥
 | CloudFront | Faster access via CDN |
 
 ## 📌 Access File using URL  
-- Go to your object → Copy **Object URL**  
+- Go to your object → Copy **Object URL**   
 - If file is **Public** → URL works  
 - If **Private** → Access Denied ❌  
 
