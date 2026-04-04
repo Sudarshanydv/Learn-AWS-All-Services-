@@ -54,7 +54,7 @@ making it a must-know service for DevOps engineers! 🔥
 
 👉 To make file public (only when required!)
 Objects → Permissions → Enable **Public Read Access**
-
+ 
 
 ## 💻 How to Connect S3 Using AWS CLI
 
