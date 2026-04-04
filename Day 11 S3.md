@@ -15,7 +15,7 @@ S3 helps us:
 It protects data with encryption, IAM policies & multi-AZ durability (11 9’s 🤯),
 making it a must-know service for DevOps engineers! 🔥
 
-## 🚀 How to Create an S3 Bucket
+## 🚀 How to Create an S3 Bucket 
 
 1️⃣ Login to AWS Console  
 2️⃣ Go to **S3 service**  
