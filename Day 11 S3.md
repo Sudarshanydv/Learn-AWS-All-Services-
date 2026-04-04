@@ -39,7 +39,7 @@ making it a must-know service for DevOps engineers! 🔥
 
 ## 🔗 How to Connect & Access Files from S3
 
-| Method | Usage |
+| Method | Usage | 
 |--------|------|
 | URL / Public Access | Share files or host static websites |
 | IAM Users / Roles | Secure internal access |
