@@ -51,7 +51,7 @@ making it a must-know service for DevOps engineers! 🔥
 - Go to your object → Copy **Object URL**   
 - If file is **Public** → URL works   
 - If **Private** → Access Denied ❌  
-
+ 
 👉 To make file public (only when required!)
 Objects → Permissions → Enable **Public Read Access**
  
