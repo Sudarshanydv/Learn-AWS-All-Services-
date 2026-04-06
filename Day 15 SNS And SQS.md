@@ -42,7 +42,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - Fully managed and highly scalable
 
 ### Interview One Line
-> **SNS is used to send real-time notifications to multiple subscribers.**
+> **SNS is used to send real-time notifications to multiple subscribers.** 
  
 ---
 
