@@ -26,7 +26,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - Email  
 - SMS  
 - AWS Lambda   
-- HTTP / HTTPS  
+- HTTP / HTTPS   
 - SQS  
 
 ### Message Storage
