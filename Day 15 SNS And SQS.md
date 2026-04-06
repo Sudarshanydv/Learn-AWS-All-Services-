@@ -43,7 +43,7 @@ These services help in building decoupled, scalable, and reliable systems.
 
 ### Interview One Line
 > **SNS is used to send real-time notifications to multiple subscribers.**
-
+ 
 ---
 
 ## 📦 AWS SQS (Simple Queue Service)
