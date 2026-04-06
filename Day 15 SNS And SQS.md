@@ -6,7 +6,7 @@ These services help in building decoupled, scalable, and reliable systems.
 # 🔔 AWS SNS & 📦 AWS SQS (DevOps – Point to Point)   
   
 ## 🔔 AWS SNS (Simple Notification Service)         
-   
+    
 ### Service Type 
 - Push-based messaging service   
   
