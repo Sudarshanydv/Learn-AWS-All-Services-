@@ -63,7 +63,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ### Message Retrieval
 - Consumer polls (pulls) messages from the queue
 
-### Message Storage
+### Message Storage 
 - Messages are stored safely until processed
 
 ### Visibility Timeout
