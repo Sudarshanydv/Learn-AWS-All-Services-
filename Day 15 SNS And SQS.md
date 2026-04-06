@@ -49,7 +49,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ## 📦 AWS SQS (Simple Queue Service)
 
 ### Service Type
-- Pull-based message queue service
+- Pull-based message queue service 
 
 ### Main Purpose
 - Used to decouple applications
