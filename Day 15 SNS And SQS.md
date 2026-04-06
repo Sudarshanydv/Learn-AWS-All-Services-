@@ -54,7 +54,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ### Main Purpose
 - Used to decouple applications
 
-### Messaging Model
+### Messaging Model 
 - Queue-based
  
 ### Flow 
