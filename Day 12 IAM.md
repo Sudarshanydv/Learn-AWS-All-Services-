@@ -17,7 +17,7 @@ Mastering IAM means mastering **security + automation + access control**, which 
 **IAM (Identity and Access Management)** is the security system of AWS.  
 It decides **who can access what** in your AWS account.
  
-Think of IAM like a security guard: 
+Think of IAM like a security guard:  
   
 - **Users** = People who need access  
 - **Roles** = Permissions for AWS services (EC2, Lambda, GitHub Actions, Terraform)  
