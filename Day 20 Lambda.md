@@ -41,7 +41,7 @@ Lambda helps DevOps teams by:
 
 ---
 
-## 🔹 How AWS Lambda Works (Step-by-Step)
+## 🔹 How AWS Lambda Works (Step-by-Step) 
 
 1. Developer writes Lambda function code
 2. Code is uploaded to AWS Lambda
