@@ -62,7 +62,7 @@ VPC is one of the **most criti**
 | Field | Value |
 |-------|-------|
 | VPC | MyVPC01 |
-| Name | `sub-public-1` |
+| Name | `sub-public-1` | 
 | AZ | `ap-south-1a` |
 | CIDR | `10.0.0.0/28` |
 | Auto-assign public IPv4 | **Enable** |
