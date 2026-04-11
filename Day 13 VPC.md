@@ -41,7 +41,7 @@ VPC is one of the **most criti**
 - Create VPC Peering + routing both sides  
 - Delete resources in correct order  
 - PuTTYgen steps to convert PEM ↔ PPK  
-
+ 
 --- 
 
 # 1) Create a VPC (Example)   
