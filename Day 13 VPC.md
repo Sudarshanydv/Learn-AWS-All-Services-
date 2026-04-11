@@ -48,7 +48,7 @@ VPC is one of the **most criti**
 
 | Step | Action | 
 |------|--------|
-| Console | VPC → Create VPC → **VPC only** |
+| Console | VPC → Create VPC → **VPC only** | 
 | Name | `MyVPC01` |
 | IPv4 CIDR | `10.0.0.0/24` (or `/16` for more IPs) |
 | Result | VPC created |
