@@ -6,7 +6,7 @@ Every EC2 instance, database, load balancer, or container service you deploy **l
 Understanding VPC = understanding how your entire cloud infrastructure communicates. 
 
 ---
-    
+     
 ## 🔥 Why VPC Is Essential 
  
 - 🛡️ Designing secure architectures   
