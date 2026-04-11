@@ -35,7 +35,7 @@ VPC is one of the **most criti**
 
 ## ✅ Quick Summary (What You’ll Get)
 
-- Create VPCs (Mumbai & Delhi) + Subnets  
+- Create VPCs (Mumbai & Delhi) + Subnets   
 - Attach Internet Gateway (IGW) + Public Route Table  
 - Create NAT Gateway + Private Route Table  
 - Create VPC Peering + routing both sides  
