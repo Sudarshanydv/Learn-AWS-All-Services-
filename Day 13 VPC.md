@@ -33,7 +33,7 @@ VPC is one of the **most criti**
 
 ---
 
-## ✅ Quick Summary (What You’ll Get)
+## ✅ Quick Summary (What You’ll Get) 
 
 - Create VPCs (Mumbai & Delhi) + Subnets   
 - Attach Internet Gateway (IGW) + Public Route Table  
