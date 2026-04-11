@@ -42,7 +42,7 @@ VPC is one of the **most criti**
 - Delete resources in correct order  
 - PuTTYgen steps to convert PEM ↔ PPK  
 
----
+--- 
 
 # 1) Create a VPC (Example)  
 
