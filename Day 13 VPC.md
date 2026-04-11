@@ -43,7 +43,7 @@ VPC is one of the **most criti**
 - PuTTYgen steps to convert PEM ↔ PPK  
  
 --- 
-
+ 
 # 1) Create a VPC (Example)   
 
 | Step | Action | 
