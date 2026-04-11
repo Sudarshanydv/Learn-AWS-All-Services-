@@ -46,7 +46,7 @@ VPC is one of the **most criti**
  
 # 1) Create a VPC (Example)   
 
-| Step | Action | 
+| Step | Action |  
 |------|--------|
 | Console | VPC → Create VPC → **VPC only** | 
 | Name | `MyVPC01` |
