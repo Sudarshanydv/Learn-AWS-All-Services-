@@ -58,7 +58,7 @@ VPC is one of the **most criti**
 # 2) Create Subnets
 
 ## Public Subnet (example)
-
+ 
 | Field | Value |
 |-------|-------|
 | VPC | MyVPC01 |
