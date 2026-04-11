@@ -38,7 +38,7 @@ VPC is one of the **most criti**
 - Create VPCs (Mumbai & Delhi) + Subnets   
 - Attach Internet Gateway (IGW) + Public Route Table  
 - Create NAT Gateway + Private Route Table   
-- Create VPC Peering + routing both sides  
+- Create VPC Peering + routing both sides   
 - Delete resources in correct order  
 - PuTTYgen steps to convert PEM ↔ PPK  
  
