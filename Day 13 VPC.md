@@ -44,7 +44,7 @@ VPC is one of the **most criti**
 
 ---
 
-# 1) Create a VPC (Example) 
+# 1) Create a VPC (Example)  
 
 | Step | Action |
 |------|--------|
