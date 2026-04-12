@@ -3,7 +3,7 @@ I learned how to attach, mount, unmount, and re-attach an EBS Volume to an EC2 i
 This is extremely useful in real DevOps environments where applications need reliable and durable storage. 
   
 ## 👉 Key things I learned today:
-| Concept                   | Explanation                                                           |
+| Concept                   | Explanation                                                            |
 | ------------------------- | -------------------------------------------------------------------- |
 | **EBS Volume Importance** | Provides persistent and durable storage for EC2 instances            |
 | **Block-Level Storage**   | Works like a virtual hard disk and supports file systems & databases |
