@@ -57,7 +57,7 @@ EC2 → Volumes → Select Volume → Actions → Attach Volume
 
 java
 Copy code
-Note the device name (Example):
+Note the device name (Example): 
 /dev/xvdf
 
 yaml
