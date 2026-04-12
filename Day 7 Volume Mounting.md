@@ -33,7 +33,7 @@ This is extremely useful in real DevOps environments where applications need rel
 ## 🏗 Step 1: Create an EC2 Instance
 Launch a Linux EC2 instance (Amazon Linux / Ubuntu)
  
----
+--- 
 
 ## 💽 Step 2: Create an EBS Volume
 Go to:
