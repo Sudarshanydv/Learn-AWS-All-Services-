@@ -49,7 +49,7 @@ Select:
 > If AZ is different → ❌ Volume cannot be attached
 
 Click **Create Volume** → **Attach Volume**
-
+ 
 ---
 
 ## 🔗 Step 3: Attach Volume to Instance
