@@ -1,7 +1,7 @@
 ## Day 7 | Today, I learned about EBS Volume Mounting on EC2 — and it’s a key skill for managing persistent storage in AWS! 🔥
 I learned how to attach, mount, unmount, and re-attach an EBS Volume to an EC2 instance to ensure data remains safe — even if the instance is stopped or restarted. 💾
 This is extremely useful in real DevOps environments where applications need reliable and durable storage. 
- 
+  
 ## 👉 Key things I learned today:
 | Concept                   | Explanation                                                           |
 | ------------------------- | -------------------------------------------------------------------- |
