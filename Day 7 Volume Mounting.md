@@ -41,7 +41,7 @@ EC2 → Volumes → Create Volume
  
 yaml
 Copy code
-Select:
+Select: 
 - **Volume Type:** gp2 / gp3 
 - **Size:** 5–20 GB (example)
 - **Availability Zone:** MUST match EC2 instance AZ
