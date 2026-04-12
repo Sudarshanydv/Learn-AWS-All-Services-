@@ -38,7 +38,7 @@ Launch a Linux EC2 instance (Amazon Linux / Ubuntu)
 ## 💽 Step 2: Create an EBS Volume
 Go to:
 EC2 → Volumes → Create Volume
-
+ 
 yaml
 Copy code
 Select:
