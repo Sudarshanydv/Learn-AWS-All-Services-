@@ -52,7 +52,7 @@ Click **Create Volume** → **Attach Volume**
  
 ---
 
-## 🔗 Step 3: Attach Volume to Instance
+## 🔗 Step 3: Attach Volume to Instance 
 EC2 → Volumes → Select Volume → Actions → Attach Volume
 
 java
