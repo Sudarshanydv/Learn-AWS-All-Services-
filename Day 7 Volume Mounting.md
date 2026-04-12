@@ -48,7 +48,7 @@ Select:
 
 > If AZ is different → ❌ Volume cannot be attached
 
-Click **Create Volume** → **Attach Volume**
+Click **Create Volume** → **Attach Volume** 
  
 ---
 
