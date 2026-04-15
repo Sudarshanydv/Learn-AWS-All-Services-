@@ -20,7 +20,7 @@ Load Balancer acts like a **traffic manager**. It receives all incoming traffic 
 - It checks backend servers (**health checks**)
 - Sends traffic only to healthy servers
 - If a server fails → traffic moves to other servers **automatically**
-
+ 
 ### 📌 Types of Load Balancers in AWS:
 - **Application Load Balancer (ALB)** – Layer 7 (HTTP/HTTPS)
 - **Network Load Balancer (NLB)** – Layer 4 (TCP/UDP)
