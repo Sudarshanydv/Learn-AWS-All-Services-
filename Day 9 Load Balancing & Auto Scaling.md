@@ -10,7 +10,7 @@ To handle this automatically, AWS provides two major services:
 Load Balancer acts like a **traffic manager**. It receives all incoming traffic and **distributes it across multiple servers (EC2 instances)**.
  
 ### 🎯 Key Purposes:
-- Avoids overload on any single server
+- Avoids overload on any single server 
 - Ensures **High Availability**
 - Provides **Fault Tolerance**
 - Continues to work even if one server fails
