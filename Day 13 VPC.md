@@ -26,7 +26,7 @@ Mastering VPC gives you full control over:
 
 - Networking  
 - Security boundaries  
-- Traffic flow  
+- Traffic flow   
 - Service-to-service connectivity  
 
 VPC is one of the **most criti**
