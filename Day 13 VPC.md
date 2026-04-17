@@ -32,7 +32,7 @@ Mastering VPC gives you full control over:
 VPC is one of the **most criti** 
 
 
-# AWS VPC, Subnets, IGW, NAT, Peering, SSH...
+# AWS VPC, Subnets, IGW, NAT, Peering, SSH... 
 
 ---
 
