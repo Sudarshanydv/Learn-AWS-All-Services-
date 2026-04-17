@@ -29,7 +29,7 @@ Mastering VPC gives you full control over:
 - Traffic flow   
 - Service-to-service connectivity  
 
-VPC is one of the **most criti**
+VPC is one of the **most criti** 
 
 
 # AWS VPC, Subnets, IGW, NAT, Peering, SSH...
