@@ -8,7 +8,7 @@ Understanding VPC = understanding how your entire cloud infrastructure communica
 ---
 
 <img width="1440" height="1312" alt="image" src="https://github.com/user-attachments/assets/2e0e9877-8837-45da-8db4-459b286e9af1" />
-
+ 
      
 ## 🔥 Why VPC Is Essential  
  
