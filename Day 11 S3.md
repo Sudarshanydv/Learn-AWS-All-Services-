@@ -8,7 +8,7 @@ S3 helps us:
 ✔ Host static websites like portfolios & landing pages
 ✔ Store CI/CD build artifacts 
 ✔ Maintain backups & version control
-✔ Reduce cost using storage classes & lifecycle rules 
+✔ Reduce cost using storage classes & lifecycle rules  
 
 ## 📌 S3 = Storage + Security + Scalability + Cost Optimization
 
