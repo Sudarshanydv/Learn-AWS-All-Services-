@@ -6,7 +6,7 @@ S3 helps us:
 ✔ Store any type of data (images, logs, code, backups, videos)
 ✔ Access data anytime from anywhere 
 ✔ Host static websites like portfolios & landing pages
-✔ Store CI/CD build artifacts
+✔ Store CI/CD build artifacts 
 ✔ Maintain backups & version control
 ✔ Reduce cost using storage classes & lifecycle rules 
 
