@@ -4,7 +4,7 @@
 ### I understood that an AMI is a pre-configured OS + software image used to launch EC2 instances quickly and consistently. It helps in standardizing environments and deploying servers at scale — especially in real-time DevOps and automation workflows.
 
 ## Name – Sudarshan Yadav, Contact - 7709877817
-## Email Id – sudarshanyadav4080@gmail.com 
+## Email Id – sudarshanyadav4080@gmail.com  
 GitHub: https://github.com/Sudarshanydv   
 Dev.to Blog: https://dev.to/sudarshan_yadav 
 LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
