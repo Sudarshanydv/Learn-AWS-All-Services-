@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
 
 # 🚀 My Web Hosting Journey with AWS EC2 – Step-by-Step Deployment Guide
 
-# EC2 Launch Guide 
+# EC2 Launch Guide  
 
 A concise, step-by-step guide to launch and manage an Amazon EC2 instance.
  
