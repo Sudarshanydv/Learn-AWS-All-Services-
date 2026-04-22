@@ -31,7 +31,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 ## Quick Steps
 
 ```markdown
-1. Login to AWS Management Console 
+1. Login to AWS Management Console  
 2. Go to EC2 Dashboard → Launch Instance
 3. Choose an AMI (Ubuntu / Amazon Linux) 
 4. Select Instance Type (e.g., t2.micro for Free Tier)
