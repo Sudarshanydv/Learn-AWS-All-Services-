@@ -21,7 +21,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 --- 
     
 ## Prerequisites
-
+ 
 * An AWS account with permissions to create EC2, VPC, IAM roles, and security groups.
 * AWS CLI installed and configured (`aws configure`) OR access to the AWS Management Console.
 * A basic understanding of Linux/SSH if using a Linux AMI.
