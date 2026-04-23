@@ -18,7 +18,7 @@ YAML / JSON
  
 **Key Features**  
 - Automated infrastructure creation   
-- Manages full lifecycle (Create, Update, Delete) 
+- Manages full lifecycle (Create, Update, Delete)  
 - Consistent deployments  
 - Automatic rollback on failure  
 - Fully managed by AWS 
