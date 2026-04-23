@@ -33,7 +33,7 @@ CloudFormation is used when we need:
 - ✅ Repeatable environments (Dev / Test / Prod)  
 - ✅ Version-controlled infrastructure  
 - ✅ Reduced manual errors   
-- ✅ Easy rollback and recovery  
+- ✅ Easy rollback and recovery   
 
 ---
 
