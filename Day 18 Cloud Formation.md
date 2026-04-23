@@ -26,7 +26,7 @@ YAML / JSON
 --- 
 
 ## 🔹 Why We Use CloudFormation in DevOps 
-
+ 
 CloudFormation is used when we need: 
  
 - ✅ Automated infrastructure deployment   
