@@ -44,7 +44,7 @@ CloudFormation is used when we need:
 | EC2 & VPC setup | One-click infrastructure |
 | Auto Scaling | Consistent scaling |
 | CI/CD pipelines | Infrastructure automation |
-| Disaster recovery | Easy recreation |
+| Disaster recovery | Easy recreation | 
 | Multi-environment setup | Template reuse |
 
 ---
