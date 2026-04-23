@@ -20,7 +20,7 @@ YAML / JSON
 - Automated infrastructure creation   
 - Manages full lifecycle (Create, Update, Delete) 
 - Consistent deployments  
-- Automatic rollback on failure 
+- Automatic rollback on failure  
 - Fully managed by AWS 
 
 --- 
