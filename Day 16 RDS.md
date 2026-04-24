@@ -23,7 +23,7 @@ AWS RDS helps teams focus on application development by handling **database prov
 ## 🚀 Why Use AWS RDS?
 
 - No manual database installation
-- Automated backups and snapshots
+- Automated backups and snapshots 
 - High availability with **Multi-AZ**
 - Easy scaling of compute and storage
 - Built-in monitoring using **CloudWatch**
