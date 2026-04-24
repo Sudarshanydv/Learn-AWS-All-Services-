@@ -7,7 +7,7 @@ AWS RDS helps teams focus on application development by handling **database prov
 ---   
  
 ## 🗄️ What is AWS RDS?
-
+ 
 **AWS RDS (Relational Database Service)** allows you to run relational databases in AWS without managing the underlying infrastructure.
 
 ### Supported Database Engines:
