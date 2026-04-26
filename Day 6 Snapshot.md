@@ -29,7 +29,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 3. AWS stores backup of the full DB  
 4. You can restore DB anytime from that snapshot
  
-**Used for:**
+**Used for:** 
 - Database backup   
 - Database disaster recovery
 _______________________________________
