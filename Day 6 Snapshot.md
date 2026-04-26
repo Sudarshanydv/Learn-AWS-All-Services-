@@ -24,7 +24,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 ## 🔹 RDS Snapshot (Database Backup)
 
 **Steps:**
-1. Select RDS Database  
+1. Select RDS Database   
 2. Click **Take Snapshot**  
 3. AWS stores backup of the full DB  
 4. You can restore DB anytime from that snapshot
