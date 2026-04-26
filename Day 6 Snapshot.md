@@ -33,7 +33,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 - Database backup   
 - Database disaster recovery
 _______________________________________
-
+ 
 ## 🔹 Important Things to Remember
 
 | Feature | Meaning |
