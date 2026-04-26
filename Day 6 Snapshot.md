@@ -19,7 +19,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 - Before updating server → take snapshot  
 - If update fails → restore snapshot → server comes back to old state
 
----
+--- 
 
 ## 🔹 RDS Snapshot (Database Backup)
 
