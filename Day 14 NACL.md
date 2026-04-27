@@ -12,7 +12,7 @@ If you’re learning AWS networking, mastering NACL is a key step in building se
 - 🛡️ Adds an extra layer of security at the **subnet** level   
 - 🔁 Controls inbound & outbound traffic (stateless)   
 - 🚫 Supports both **ALLOW** and **DENY** rules  
-- 📦 Protects private subnets (App Servers, Databases, EKS Nodes)  
+- 📦 Protects private subnets (App Servers, Databases, EKS Nodes)   
 - ⚙️ Often used in **secure DevOps infrastructure** (EKS, EC2, CI/CD, Load Balancers)
 
 --- 
