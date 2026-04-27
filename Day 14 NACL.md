@@ -36,7 +36,7 @@ As a DevOps engineer, you work with:
 - Terraform or CloudFormation  
 
 All of these use networking, and NACL helps control what traffic is allowed.
-
+ 
 **NACL ensures:** 
 
 - ✔️ Traffic is restricted  
