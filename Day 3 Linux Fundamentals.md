@@ -1,4 +1,4 @@
-# ✨ Daily Learning Update – Linux Fundamentals 🐧
+# ✨ Daily Learning Update – Linux Fundamentals 🐧...
 
 Today I learned Linux fundamentals, and it was a super valuable experience for me as an AWS & DevOps Engineer. 🤗  
 I understood how Linux is the backbone of most cloud environments, servers, and container systems like Docker & Kubernetes.  
