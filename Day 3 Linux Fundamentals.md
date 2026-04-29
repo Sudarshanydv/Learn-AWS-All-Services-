@@ -43,7 +43,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 - Strong performance, security & troubleshooting capabilities
 
 --- 
-# 📌 Linux Useful Commands 
+# 📌 Linux Useful Commands  
 
 | **Category** | **Command / Item** | **Description / Purpose** |
 |-------------|---------------------|----------------------------|
