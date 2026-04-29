@@ -42,7 +42,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 - Supports automation & CI/CD for reliable deployment
 - Strong performance, security & troubleshooting capabilities
 
----
+--- 
 # 📌 Linux Useful Commands 
 
 | **Category** | **Command / Item** | **Description / Purpose** |
