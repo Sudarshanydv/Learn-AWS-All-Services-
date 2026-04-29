@@ -24,7 +24,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 ---
 
 ## ✔ Pros of Linux
-- Free and open source
+- Free and open source 
 - Highly secure & stable
 - Best performance for servers and cloud workloads
 - Flexible & customizable with automation support
