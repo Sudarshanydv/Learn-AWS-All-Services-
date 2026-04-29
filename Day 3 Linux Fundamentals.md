@@ -47,7 +47,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 
 | **Category** | **Command / Item** | **Description / Purpose** |
 |-------------|---------------------|----------------------------|
-| **Colors Meaning in Terminal** | Files | White |
+| **Colors Meaning in Terminal** | Files | White | 
 | | Folders | Blue |
 | | All Permission Granted | Green |
 | | Close Editing File | `:q!`, `ctrl + x → Enter` |
