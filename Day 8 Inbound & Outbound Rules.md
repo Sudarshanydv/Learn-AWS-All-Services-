@@ -4,7 +4,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
  
 ## AWS Networking — EIP + Inbound + Outbound Rules
    
----    
+---     
      
 ### 🟦 What is Elastic IP (EIP)?       
 
