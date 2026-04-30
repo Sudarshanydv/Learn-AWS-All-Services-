@@ -6,7 +6,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
    
 ---    
     
-### 🟦 What is Elastic IP (EIP)?      
+### 🟦 What is Elastic IP (EIP)?       
 
 | Feature            | Description                | 
 | ------------------ | -------------------------- |  
