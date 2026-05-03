@@ -20,7 +20,7 @@ Practical demos and mini-projects
 Interview preparation & notes
 
 🤝 Looking to collaborate with:
-
+ 
 Students, cloud learners, freshers, and professionals interested in AWS & DevOps.
 
 📩 Feel free to comment “I’m in” or DM if you want to learn together.
