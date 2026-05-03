@@ -9,7 +9,7 @@ My goal is to learn all core topics, essential tools, and real-world concepts—
 If you are also learning AWS, DevOps, Cloud, CI/CD, Docker, Kubernetes, Linux, Git/GitHub, or related technologies—
 👉 Let’s connect, collaborate, and grow together!
     
-🔔 Follow me for:     
+🔔 Follow me for:      
  
 Daily learning updates  
 
