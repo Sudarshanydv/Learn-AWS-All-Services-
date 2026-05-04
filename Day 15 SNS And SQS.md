@@ -29,7 +29,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - HTTP / HTTPS   
 - SQS  
 
-### Message Storage
+### Message Storage 
 - SNS does **not store messages** 
 - If the subscriber is unavailable, the message is lost
 
