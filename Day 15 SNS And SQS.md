@@ -19,7 +19,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ### Flow
  
 
-### Delivery
+### Delivery 
 - Message is pushed automatically to subscribers 
    
 ### Subscribers Can Be  
