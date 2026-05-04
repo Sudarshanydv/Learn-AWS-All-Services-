@@ -4,7 +4,7 @@ Today, I learned about AWS SNS (Simple Notification Service) and AWS SQS (Simple
 These services help in building decoupled, scalable, and reliable systems.
  
 # 🔔 AWS SNS & 📦 AWS SQS (DevOps – Point to Point)   
-  
+   
 ## 🔔 AWS SNS (Simple Notification Service)          
      
 ### Service Type 
