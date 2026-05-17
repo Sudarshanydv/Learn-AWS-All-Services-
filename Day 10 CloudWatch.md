@@ -36,7 +36,7 @@ In Cloud/DevOps, we must always monitor resources like **EC2, RDS, Lambda, VPC**
 CloudWatch helps you: 
 
 - 🔹 Check CPU / Memory / Network usage 
-- 🔹 Monitor application logs
+- 🔹 Monitor application logs 
 - 🔹 Set alarms when something is wrong 
 - 🔹 Automatically stop, start, or scale resources
 - 🔹 Trace real-time performance
