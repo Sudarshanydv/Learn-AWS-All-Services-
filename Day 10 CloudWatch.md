@@ -42,7 +42,7 @@ CloudWatch helps you:
 - 🔹 Automatically stop, start, or scale resources
 - 🔹 Trace real-time performance 
 
----
+--- 
  
 ## ⚙️ CloudWatch Key Features
 
