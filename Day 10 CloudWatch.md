@@ -40,7 +40,7 @@ CloudWatch helps you:
 - 🔹 Monitor application logs 
 - 🔹 Set alarms when something is wrong 
 - 🔹 Automatically stop, start, or scale resources
-- 🔹 Trace real-time performance
+- 🔹 Trace real-time performance 
 
 ---
  
