@@ -27,7 +27,7 @@ This is extremely useful in real DevOps environments where applications need rel
 - Mount volume inside Linux EC2 instance
 - Store data and verify persistence
 - Unmount and reattach the same volume to another instance 
-
+ 
 ---
 
 ## 🏗 Step 1: Create an EC2 Instance
