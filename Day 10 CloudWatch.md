@@ -17,7 +17,7 @@ It improves uptime, reduces downtime, and makes cloud operations more efficient 
 
 # 🌥️ AWS CloudWatch
 
-## 📌 What is AWS CloudWatch?
+## 📌 What is AWS CloudWatch?  
 
 CloudWatch is a **monitoring and observability service** in AWS.  
 It collects **metrics, logs, and events** from AWS resources and applications so you can:
