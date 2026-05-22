@@ -30,7 +30,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 - Flexible & customizable with automation support
 - Huge community and support
 
-## ❌ Cons of Linux
+## ❌ Cons of Linux 
 - Steeper learning curve for beginners
 - Limited compatibility with some commercial software
 - More manual configuration required
