@@ -9,7 +9,7 @@ If you found this helpful, share your thoughts, experiences, or tips in the comm
 
 ---
  
-## 🐧 History of Linux
+## 🐧 History of Linux 
 Linux was created in 1991 by Linus Torvalds as a free and open-source alternative to UNIX.  
 The first Linux kernel was released publicly, allowing global developers to contribute and improve it.  
 Today, Linux powers servers, supercomputers, Android devices, and modern cloud platforms like AWS.
