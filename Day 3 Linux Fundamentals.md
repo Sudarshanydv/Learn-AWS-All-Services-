@@ -6,7 +6,7 @@ It provides a secure, stable, and highly customizable platform, making it essent
 
 Learning Linux is definitely boosting my confidence in building efficient cloud and DevOps solutions. 🚀  
 If you found this helpful, share your thoughts, experiences, or tips in the comments — I’d love to learn from you too! 😊
-
+ 
 ---
  
 ## 🐧 History of Linux 
