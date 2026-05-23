@@ -27,7 +27,7 @@ You just upload your **application code**, and Elastic Beanstalk automatically h
 Elastic Beanstalk is useful when: 
    
 * You want **fast deployment** 
-* You don’t want to manage infrastructure manually
+* You don’t want to manage infrastructure manually 
 * You need **auto scaling + high availability**
 * You want **CI/CD friendly deployments**
 
