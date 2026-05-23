@@ -15,7 +15,7 @@ With Elastic Beanstalk, you can deploy applications quickly and reliably, making
 You just upload your **application code**, and Elastic Beanstalk automatically handles:
   
 * EC2 instances  
-* Load Balancer 
+* Load Balancer  
 * Auto Scaling  
 * Monitoring 
 * Application updates 
