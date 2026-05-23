@@ -18,7 +18,7 @@ You just upload your **application code**, and Elastic Beanstalk automatically h
 * Load Balancer  
 * Auto Scaling  
 * Monitoring 
-* Application updates 
+* Application updates  
  
 ---
  
