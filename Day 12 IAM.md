@@ -27,7 +27,7 @@ Think of IAM like a security guard:
 - **Policies** = Rules that say what actions are allowed  
 - **Groups** = Team permissions   
  
----
+--- 
   
 # 🧑‍💻 How to Use IAM (Step-by-Step Guide) 
 
