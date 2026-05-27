@@ -33,7 +33,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - SNS does **not store messages** 
 - If the subscriber is unavailable, the message is lost
 
-### Use in DevOps
+### Use in DevOps 
 - CloudWatch alarms  
 - Deployment notifications  
 - System failure alerts   
