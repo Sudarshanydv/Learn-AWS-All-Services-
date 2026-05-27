@@ -11,7 +11,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - Push-based messaging service     
    
 ### Main Purpose   
-- Used to send notifications and alerts
+- Used to send notifications and alerts 
 
 ### Messaging Model
 -  Publish / Subscribe (Pub-Sub) 
