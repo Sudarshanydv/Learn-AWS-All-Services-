@@ -36,7 +36,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ### Use in DevOps
 - CloudWatch alarms  
 - Deployment notifications  
-- System failure alerts  
+- System failure alerts   
 
 ### Scalability
 - Fully managed and highly scalable
