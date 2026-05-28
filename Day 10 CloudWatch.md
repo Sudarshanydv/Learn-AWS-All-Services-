@@ -46,7 +46,7 @@ CloudWatch helps you:
  
 ## ⚙️ CloudWatch Key Features
 
-| Feature | Explanation | Example Use Case |
+| Feature | Explanation | Example Use Case | 
 |--------|-------------|----------------|
 | **Metrics** | Collects performance data of AWS resources | CPU Utilization of EC2, RDS DB connections |
 | **Logs** | Store and analyze application/system logs | Store EC2 logs for troubleshooting |
