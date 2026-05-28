@@ -26,7 +26,7 @@ It collects **metrics, logs, and events** from AWS resources and applications so
 - ✔ Detect issues faster 
 - ✔ Automatically take actions when something goes wrong 
 - ✔ Improve operational health and cost visibility
- 
+  
 --- 
     
 ## 🎯 Why do we use CloudWatch?  
