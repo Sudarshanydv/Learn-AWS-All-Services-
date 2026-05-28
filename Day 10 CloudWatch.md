@@ -16,7 +16,7 @@ CloudWatch = Monitor + Alert + Logs + Automation
 It improves uptime, reduces downtime, and makes cloud operations more efficient — which is very important for DevOps engineers! 🚀
 
 # 🌥️ AWS CloudWatch
-
+ 
 ## 📌 What is AWS CloudWatch?  
 
 CloudWatch is a **monitoring and observability service** in AWS.  
