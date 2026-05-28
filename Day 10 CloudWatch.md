@@ -28,7 +28,7 @@ It collects **metrics, logs, and events** from AWS resources and applications so
 - ✔ Improve operational health and cost visibility
   
 --- 
-    
+     
 ## 🎯 Why do we use CloudWatch?  
 
 In Cloud/DevOps, we must always monitor resources like **EC2, RDS, Lambda, VPC** etc.
