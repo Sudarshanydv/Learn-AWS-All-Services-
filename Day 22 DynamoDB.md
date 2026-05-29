@@ -31,7 +31,7 @@ DynamoDB is the go-to choice when:
 * You need **global availability** (Global Tables)
 
 ---
-
+ 
 ## Core Concepts (The Fundamentals)
 
 * **Tables:** Similar to a table in SQL, but with no fixed schema.
