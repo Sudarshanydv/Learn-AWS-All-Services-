@@ -30,7 +30,7 @@ These services help in building decoupled, scalable, and reliable systems.
 - SQS  
  
 ### Message Storage 
-- SNS does **not store messages** 
+- SNS does **not store messages**  
 - If the subscriber is unavailable, the message is lost
 
 ### Use in DevOps 
