@@ -25,7 +25,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
 
 #### Where EIP is used?
 
-| Use Case      | Reason                    |
+| Use Case      | Reason                    | 
 | ------------- | ------------------------- |
 | Web Servers   | Same public IP always     | 
 | Bastion Hosts | Secure admin access       |
