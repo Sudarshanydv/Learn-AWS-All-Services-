@@ -38,7 +38,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
 | ---- | ----------------------------------- |
 | 1    | Go to EC2 → Elastic IPs → Allocate  |
 | 2    | Select Allocate IP                  |
-| 3    | Associate with EC2/ENI              | 
+| 3    | Associate with EC2/ENI              |  
 | 4    | Add SG rules to allow public access |
 
 > 📝 EIP is **free only when attached** to a running instance.
