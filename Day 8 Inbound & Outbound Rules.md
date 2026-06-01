@@ -8,7 +8,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
      
 ### 🟦 What is Elastic IP (EIP)?        
 
-| Feature            | Description                | 
+| Feature            | Description                |  
 | ------------------ | -------------------------- |  
 | IP Type            | Static Public IPv4         |
 | Changes on reboot? | ❌ No — Always same IP     |
