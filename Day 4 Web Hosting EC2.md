@@ -29,7 +29,7 @@ Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers (instances)
 --- 
 
 ## Quick Steps 
-
+ 
 ```markdown
 1. Login to AWS Management Console  
 2. Go to EC2 Dashboard → Launch Instance
