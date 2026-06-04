@@ -5,7 +5,7 @@ EFS allows multiple EC2 instances to **read and write data simultaneously**, mak
 
 EFS helps in building **highly available, scalable, and persistent storage solutions** for applications running across multiple Availability Zones...
   
----  
+---   
  
 # 🗂️ AWS EFS (DevOps – Shared File System)
     
