@@ -24,7 +24,7 @@ Load Balancer acts like a **traffic manager**. It receives all incoming traffic 
 ### 📌 Types of Load Balancers in AWS: 
 - **Application Load Balancer (ALB)** – Layer 7 (HTTP/HTTPS)
 - **Network Load Balancer (NLB)** – Layer 4 (TCP/UDP)
-- **Classic Load Balancer (CLB)** – Old generation
+- **Classic Load Balancer (CLB)** – Old generation 
 
 ---
 
