@@ -17,7 +17,7 @@ Load Balancer acts like a **traffic manager**. It receives all incoming traffic 
 
 ### 🧠 How it Works?
 - Users send requests → Load Balancer receives them
-- It checks backend servers (**health checks**)
+- It checks backend servers (**health checks**) 
 - Sends traffic only to healthy servers
 - If a server fails → traffic moves to other servers **automatically**
   
