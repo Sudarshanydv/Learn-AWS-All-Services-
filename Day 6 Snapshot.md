@@ -15,7 +15,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 5. Attach the volume to any EC2 instance and use it again
 
 **Simple example:**
-
+ 
 - Before updating server → take snapshot  
 - If update fails → restore snapshot → server comes back to old state
 
