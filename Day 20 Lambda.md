@@ -1,7 +1,7 @@
 ## 📅 Day 20 | AWS Lambda — Serverless Compute in AWS ⚡☁️
 
 Today, I learned about **AWS Lambda**, a **serverless compute service** provided by AWS that lets you run code **without provisioning or managing servers**.
- 
+  
 With Lambda, you only focus on **writing code**, and AWS automatically handles **infrastructure, scaling, and availability**. You pay **only for the execution time**, making it highly cost-effective and scalable. 
   
 AWS Lambda is a core service in **modern DevOps and cloud-native architectures**.  
