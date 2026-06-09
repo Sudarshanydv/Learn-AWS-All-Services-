@@ -18,7 +18,7 @@ LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
   - Packages
   - Application code
   - Environment variables
-  - Users & permissions   
+  - Users & permissions    
   - Firewall rules 
 - Clean up before imaging:
   - Remove logs & temporary files
