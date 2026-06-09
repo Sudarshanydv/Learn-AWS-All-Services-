@@ -30,7 +30,7 @@ You can use Lambda to:
 ---
 
 ## 🔹 Why AWS Lambda is Important in DevOps?
-
+ 
 Lambda helps DevOps teams by:
 
 * Eliminating server management
