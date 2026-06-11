@@ -6,7 +6,7 @@ Networking = How systems communicate (within cloud, between servers, and with th
  
 ## ☁️ AWS Networking – Core Concepts 
 ### 1️⃣ VPC (Virtual Private Cloud)
-
+ 
 A VPC is your private network inside AWS where you can launch resources like EC2, databases, and load balancers.
 It works like your own secure isolated data center in the cloud.
  
