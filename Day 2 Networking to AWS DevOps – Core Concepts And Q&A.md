@@ -1,7 +1,7 @@
 ## 🌐 AWS & DevOps Networking – A Complete Beginner-Friendly Explanation
  
 Networking is one of the most important foundations when learning AWS and DevOps because every application running in the cloud depends on secure and efficient network connectivity.
-In simple words:
+In simple words: 
 Networking = How systems communicate (within cloud, between servers, and with the internet)
  
 ## ☁️ AWS Networking – Core Concepts 
