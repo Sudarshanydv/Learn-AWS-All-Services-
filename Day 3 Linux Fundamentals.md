@@ -8,7 +8,7 @@ Learning Linux is definitely boosting my confidence in building efficient cloud 
 If you found this helpful, share your thoughts, experiences, or tips in the comments — I’d love to learn from you too! 😊
  
 ---
-  
+   
 ## 🐧 History of Linux 
 Linux was created in 1991 by Linus Torvalds as a free and open-source alternative to UNIX.  
 The first Linux kernel was released publicly, allowing global developers to contribute and improve it.  
