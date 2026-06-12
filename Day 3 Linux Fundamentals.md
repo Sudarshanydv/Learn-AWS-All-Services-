@@ -14,7 +14,7 @@ Linux was created in 1991 by Linus Torvalds as a free and open-source alternativ
 The first Linux kernel was released publicly, allowing global developers to contribute and improve it.  
 Today, Linux powers servers, supercomputers, Android devices, and modern cloud platforms like AWS.
 
---- 
+---  
 
 ## 🐧 What is Linux? — Fundamentals
 Linux is an open-source, Unix-based operating system widely used in servers, cloud platforms, and DevOps environments.  
