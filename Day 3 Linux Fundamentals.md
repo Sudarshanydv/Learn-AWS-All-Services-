@@ -21,7 +21,7 @@ Linux is an open-source, Unix-based operating system widely used in servers, clo
 It manages hardware resources and provides a secure, stable, and customizable platform for running applications.  
 Its hierarchical file system and shell interface enable automation and scripting, making Linux essential for DevOps workflows.
 
---- 
+---  
 
 ## ✔ Pros of Linux  
 - Free and open source 
