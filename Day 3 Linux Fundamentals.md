@@ -22,7 +22,7 @@ It manages hardware resources and provides a secure, stable, and customizable pl
 Its hierarchical file system and shell interface enable automation and scripting, making Linux essential for DevOps workflows.
 
 ---  
-
+ 
 ## ✔ Pros of Linux  
 - Free and open source 
 - Highly secure & stable
