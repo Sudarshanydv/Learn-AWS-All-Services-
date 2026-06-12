@@ -16,7 +16,7 @@ Today, Linux powers servers, supercomputers, Android devices, and modern cloud p
 
 ---  
 
-## 🐧 What is Linux? — Fundamentals
+## 🐧 What is Linux? — Fundamentals 
 Linux is an open-source, Unix-based operating system widely used in servers, cloud platforms, and DevOps environments.  
 It manages hardware resources and provides a secure, stable, and customizable platform for running applications.  
 Its hierarchical file system and shell interface enable automation and scripting, making Linux essential for DevOps workflows.
