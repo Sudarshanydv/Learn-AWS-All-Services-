@@ -19,7 +19,7 @@ This is extremely useful in real DevOps environments where applications need rel
 
 **Date:** 01/08/2024   
 **Topic:** How to create, attach, mount, unmount, and reuse an EBS Volume in AWS
- 
+  
 ---    
  
 ## 🚀 What You Will Learn
