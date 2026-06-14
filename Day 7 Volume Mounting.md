@@ -21,7 +21,7 @@ This is extremely useful in real DevOps environments where applications need rel
 **Topic:** How to create, attach, mount, unmount, and reuse an EBS Volume in AWS
 
 --- 
-
+ 
 ## 🚀 What You Will Learn
 - Create and attach an EBS Volume
 - Mount volume inside Linux EC2 instance
