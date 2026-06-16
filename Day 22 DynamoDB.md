@@ -10,7 +10,7 @@ DynamoDB is a key-value and document database that delivers single-digit millise
   
 ## What is AWS DynamoDB?
 
-**AWS DynamoDB** is a **Serverless NoSQL Database** that allows you to store and retrieve any amount of data and serve any level of request traffic.
+**AWS DynamoDB** is a **Serverless NoSQL Database** that allows you to store and retrieve any amount of data and serve any level of request traffic. 
 
 Unlike relational databases (RDS), DynamoDB is **non-relational**, meaning it doesn't use fixed schemas or complex joins. AWS handles the:
 
