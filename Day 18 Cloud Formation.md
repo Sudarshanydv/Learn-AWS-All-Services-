@@ -31,7 +31,7 @@ CloudFormation is used when we need:
  
 - ✅ Automated infrastructure deployment   
 - ✅ Repeatable environments (Dev / Test / Prod)  
-- ✅ Version-controlled infrastructure  
+- ✅ Version-controlled infrastructure   
 - ✅ Reduced manual errors   
 - ✅ Easy rollback and recovery   
 
