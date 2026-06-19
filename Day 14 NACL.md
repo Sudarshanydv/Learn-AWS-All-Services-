@@ -32,7 +32,7 @@ As a DevOps engineer, you work with:
 - VPC creation   
 - Subnets (public/private)   
 - EC2, Load balancers, NAT  
-- Kubernetes clusters (EKS)  
+- Kubernetes clusters (EKS)   
 - Terraform or CloudFormation  
 
 All of these use networking, and NACL helps control what traffic is allowed.
