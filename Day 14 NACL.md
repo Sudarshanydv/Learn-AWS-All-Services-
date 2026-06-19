@@ -38,7 +38,7 @@ As a DevOps engineer, you work with:
 All of these use networking, and NACL helps control what traffic is allowed.
  
 **NACL ensures:** 
-
+ 
 - ✔️ Traffic is restricted  
 - ✔️ Only safe ports are open  
 - ✔️ Subnet-to-subnet traffic is filtered  
