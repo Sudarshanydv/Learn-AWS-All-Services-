@@ -20,7 +20,7 @@ making it a must-know service for DevOps engineers! 🔥
 1️⃣ Login to AWS Console  
 2️⃣ Go to **S3 service**  
 3️⃣ Click **Create bucket**  
-4️⃣ Enter a **unique bucket name** (globally unique)  
+4️⃣ Enter a **unique bucket name** (globally unique)   
 5️⃣ Choose **Region** (ex: ap-south-1)  
 6️⃣ Keep **Block Public Access** ON by default  
 7️⃣ Click **Create Bucket**  
