@@ -1,6 +1,6 @@
 # 📅 Day 11 🚀 Amazon S3 | Simple & Secure Cloud Storage
 In AWS DevOps projects, storing data safely and accessing it anytime is very important.
-AWS provides Amazon S3 — a highly scalable object storage service used worldwide..
+AWS provides Amazon S3 — a highly scalable object storage service used worldwide...
 
 S3 helps us:
 ✔ Store any type of data (images, logs, code, backups, videos)
