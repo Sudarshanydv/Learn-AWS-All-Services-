@@ -15,7 +15,7 @@ CloudFront helps in building **highly available, low-latency, and secure applica
 Amazon CloudFront is a **Content Delivery Network (CDN)** service provided by AWS.
 
 It delivers content like:
-- HTML
+- HTML 
 - CSS 
 - JavaScript
 - Images
