@@ -43,7 +43,7 @@ Use users for human access, not automation.
 - Give name (e.g., `devops-user`)
 - Attach permissions (Admin or custom)
 - Create login credentials
-- **Enable MFA** (very important!)
+- **Enable MFA** (very important!) 
 
 **Purpose:** Logging into AWS as a person.
  
