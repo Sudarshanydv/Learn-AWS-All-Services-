@@ -45,7 +45,7 @@ Use users for human access, not automation.
 - Create login credentials
 - **Enable MFA** (very important!) 
 
-**Purpose:** Logging into AWS as a person.
+**Purpose:** Logging into AWS as a person. 
  
 ---
 
