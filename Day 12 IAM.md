@@ -35,7 +35,7 @@ Think of IAM like a security guard:
 
 ## ✅ 1. Create IAM Users (for people)
 
-Use users for human access, not automation.
+Use users for human access, not automation. 
 
 ### **Steps:** 
 - Go to **AWS Console → IAM → Users** 
