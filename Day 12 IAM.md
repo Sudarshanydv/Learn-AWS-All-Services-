@@ -25,7 +25,7 @@ Think of IAM like a security guard:
 - **Users** = People who need access  
 - **Roles** = Permissions for AWS services (EC2, Lambda, GitHub Actions, Terraform)  
 - **Policies** = Rules that say what actions are allowed  
-- **Groups** = Team permissions  
+- **Groups** = Team permissions   
   
 --- 
   
