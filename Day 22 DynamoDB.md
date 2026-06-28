@@ -23,7 +23,7 @@ Unlike relational databases (RDS), DynamoDB is **non-relational**, meaning it do
  
 ## Why DevOps Engineers Use DynamoDB 
  
-DynamoDB is the go-to choice when: 
+DynamoDB is the go-to choice when:  
   
 * You need **extreme scale** (millions of requests per second)
 * You require **consistent low latency** (single-digit milliseconds)
