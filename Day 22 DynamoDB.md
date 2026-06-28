@@ -32,7 +32,7 @@ DynamoDB is the go-to choice when:
 
 ---
  
-## Core Concepts (The Fundamentals)
+## Core Concepts (The Fundamentals) 
 
 * **Tables:** Similar to a table in SQL, but with no fixed schema.
 * **Items:** Similar to a "row." Each item is a collection of attributes.
