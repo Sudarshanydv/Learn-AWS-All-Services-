@@ -7,7 +7,7 @@ DynamoDB is a key-value and document database that delivers single-digit millise
 ---                             
     
 # ⚡ AWS DynamoDB – DevOps Explanation.....    
-  
+   
 ## What is AWS DynamoDB? 
 
 **AWS DynamoDB** is a **Serverless NoSQL Database** that allows you to store and retrieve any amount of data and serve any level of request traffic. 
