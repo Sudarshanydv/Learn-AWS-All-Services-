@@ -3,7 +3,7 @@
 Today, I learned about **AWS RDS (Relational Database Service)**, which is a **fully managed database service** provided by AWS to easily set up, operate, and scale relational databases in the cloud.
  
 AWS RDS helps teams focus on application development by handling **database provisioning, backups, patching, scaling, and maintenance** automatically.
- 
+  
   
 ---   
  
