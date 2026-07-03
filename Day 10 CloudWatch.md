@@ -1,4 +1,4 @@
-## 📅 Day 10 🚀 AWS CloudWatch | Monitoring Made Easy
+## 📅 Day 10 🚀 AWS CloudWatch | Monitoring Made Easy 
 
 In real AWS projects, we must always monitor our resources like EC2, RDS, Lambda, and applications to make sure everything is running smoothly.
 To do this, AWS provides CloudWatch — a powerful monitoring and observability service. 
