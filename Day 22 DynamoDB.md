@@ -1,6 +1,6 @@
  # 📅 Day 22 | AWS DynamoDB — Serverless NoSQL Database in AWS ⚡☁️
 
-Today, I learned about **AWS DynamoDB**, a fully managed, serverless, NoSQL database service designed to provide fast and predictable performance with seamless scalability.
+Today, I learned about **AWS DynamoDB**, a fully managed, serverless, NoSQL database service designed to provide fast and predictable performance with seamless scalability. 
  
 DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It’s a favorite for DevOps and Cloud Engineers because it removes the administrative burden of operating and scaling distributed databases.   
                
