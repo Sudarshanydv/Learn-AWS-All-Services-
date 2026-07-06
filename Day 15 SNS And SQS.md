@@ -12,7 +12,7 @@ These services help in building decoupled, scalable, and reliable systems.
    
 ### Main Purpose    
 - Used to send notifications and alerts 
-
+ 
 ### Messaging Model
 -  Publish / Subscribe (Pub-Sub) 
 
