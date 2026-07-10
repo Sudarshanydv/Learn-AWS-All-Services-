@@ -20,7 +20,7 @@ Understanding VPC = understanding how your entire cloud infrastructure communica
 
 ---
 
-## 🎯 Why You Must Master VPC
+## 🎯 Why You Must Master VPC.
 
 Mastering VPC gives you full control over:
 
