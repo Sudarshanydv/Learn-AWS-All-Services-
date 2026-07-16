@@ -29,7 +29,7 @@ from **edge locations** (servers near users) to provide **low latency and high s
 - Reduced load on backend servers 
 - Secure and scalable content delivery   
 
---- 
+---  
  
 ## 2. Why CloudFront is Important in DevOps?
 
