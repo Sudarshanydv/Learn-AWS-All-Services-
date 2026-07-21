@@ -64,7 +64,7 @@ Snapshots are **incremental** → only changed blocks stored.
 
 ## 4️⃣ Why do we take a snapshot?
 For **backup, rollback, and disaster recovery**.
-
+ 
 ## 5️⃣ Can we restore a snapshot?
 Yes → Create a **new EBS volume** from a snapshot anytime.
 
