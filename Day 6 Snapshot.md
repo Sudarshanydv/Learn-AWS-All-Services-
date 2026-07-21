@@ -75,7 +75,7 @@ Yes → **Cross-Region Snapshot Copy** for DR.
 Yes → using **AWS KMS** keys.
 
 ## 8️⃣ Do we need to stop an EC2 instance before taking a snapshot?
-No → **Live backups** supported (crash-consistent).
+No → **Live backups** supported (crash-consistent). 
 
 ## 9️⃣ Do snapshots include OS & configurations?
 Yes → Everything on **EBS volume**.
