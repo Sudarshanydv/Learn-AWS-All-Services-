@@ -1,7 +1,7 @@
 ## Name – Sudarshan Yadav, Contact - 7709877817
 ## Email Id – sudarshanyadav4080@gmail.com
  
-# AWS Snapshots — Simple Step By Step Guide 🚀
+# AWS Snapshots — Simple Step By Step Guide
 
 This repo contains a very simple explanation of AWS Snapshots for quick reference.
  
