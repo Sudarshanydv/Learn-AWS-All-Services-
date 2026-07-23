@@ -56,7 +56,7 @@ aws ec2 create-image \
   --name "my-app-ami-2025-11-27" \
   --description "AMI for my app" \
   --no-reboot
-
+ 
 ## 📌 Check AMI Status
 
 ```bash
