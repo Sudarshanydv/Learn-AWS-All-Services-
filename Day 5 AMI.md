@@ -66,7 +66,7 @@ aws ec2 describe-image-status --image-ids ami-0abc1234
 AMI becomes available after snapshots complete
 
 Snapshots cost storage → monitor usage
-
+ 
 6️⃣ Launch Instances from the AMI
 ▶️ Console
 EC2 → AMIs → Select AMI → Launch → Configure → Launch
