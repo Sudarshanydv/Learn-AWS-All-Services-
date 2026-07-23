@@ -102,7 +102,7 @@ Use modify-image-attribute with all
 
 8️⃣ Update / Recreate AMIs (Immutable Approach)
 Do not modify AMI directly!
-
+ 
 Steps:
 
 Launch instance from AMI
