@@ -16,7 +16,7 @@ Infrastructure as Code (IaC)
 **Template Format**      
 YAML / JSON  
  
-**Key Features**  
+**Key Features**   
 - Automated infrastructure creation   
 - Manages full lifecycle (Create, Update, Delete)  
 - Consistent deployments  
