@@ -15,7 +15,7 @@ AWS Lambda allows you to run code in response to **events**.
 You can use Lambda to:  
 
 * Process files
-* Handle API requests
+* Handle API requests 
 * Automate tasks
 * Build serverless backends
 
