@@ -21,7 +21,7 @@ You can use Lambda to:
 
 **Supported languages:**
 
-* Python
+* Python 
 * Node.js
 * Java 
 * Go
