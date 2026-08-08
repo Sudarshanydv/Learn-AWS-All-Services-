@@ -20,7 +20,7 @@ These services help in building decoupled, scalable, and reliable systems.
  
 
 ### Delivery  
-- Message is pushed automatically to subscribers 
+- Message is pushed automatically to subscribers  
    
 ### Subscribers Can Be  
 - Email  
