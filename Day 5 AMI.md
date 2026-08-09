@@ -7,7 +7,7 @@
 ## Email Id – sudarshanyadav4080@gmail.com   
 GitHub: https://github.com/Sudarshanydv     
 Dev.to Blog: https://dev.to/sudarshan_yadav  
-LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
+LinkedIn: https://www.linkedin.com/in/sudarshan-yadav 
  
 ---
 
