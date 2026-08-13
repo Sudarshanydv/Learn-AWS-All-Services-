@@ -2,7 +2,7 @@ ji # 📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐 .....
 
 **AWS VPC (Virtual Private Cloud)** is the foundation of all networking inside AWS. ..   
 Every EC2 instance, database, load balancer, or container service you deploy **lives inside a VPC**. 
-
+ 
 Understanding VPC = understanding how your entire cloud infrastructure communicates.   
 
 --- 
