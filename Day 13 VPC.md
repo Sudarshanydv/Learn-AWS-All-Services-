@@ -30,7 +30,7 @@ Mastering VPC gives you full control over:
 - Service-to-service connectivity  
 
 VPC is one of the **most criti** 
-
+ 
 
 # AWS VPC, Subnets, IGW, NAT, Peering, SSH... 
 
