@@ -15,7 +15,7 @@ Today, I learned how Inbound and Outbound rules work — a critical skill for de
 | Attach/Detach      | ✔ Yes (between EC2 or ENI) |
 | Usage              | Public-facing workloads    | 
 
-#### Why is EIP needed?
+#### Why is EIP needed? 
 
 | Issue with normal Public IP        | EIP Solution                    |
 | ---------------------------------- | ------------------------------- |
