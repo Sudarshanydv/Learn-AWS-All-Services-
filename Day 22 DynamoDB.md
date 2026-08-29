@@ -39,7 +39,7 @@ DynamoDB is the go-to choice when:
 * **Attributes:** Similar to a "column." Can be strings, numbers, binaries, or even JSON (Maps/Lists).
 * **Primary Key:** Must be defined at creation. It consists of:
     * **Partition Key (PK):** Used for internal data distribution.
-    * **Sort Key (SK):** (Optional) Used to sort data within a partition.
+    * **Sort Key (SK):** (Optional) Used to sort data within a partition...
 
 ---
 
