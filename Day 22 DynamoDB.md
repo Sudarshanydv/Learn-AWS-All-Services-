@@ -30,7 +30,7 @@ DynamoDB is the go-to choice when:
 * You want a **serverless architecture** (no instances to manage)
 * You need **global availability** (Global Tables)
 
----
+--- 
   
 ## Core Concepts (The Fundamentals)  
 
