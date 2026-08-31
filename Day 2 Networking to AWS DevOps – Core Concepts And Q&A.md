@@ -34,7 +34,7 @@ Controls how traffic flows between subnets and external networks.
  
 Firewall that controls traffic for individual resources (EC2, RDS).
 Works at instance level.
-
+ 
 ### 7️⃣ NACL (Network Access Control List)
 
 Firewall that protects subnets.
