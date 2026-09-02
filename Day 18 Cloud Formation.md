@@ -74,7 +74,7 @@ AWS Resources (EC2, S3, VPC, IAM, RDS)
 ## 🔹 Step-by-Step: How to Use CloudFormation
 
 ### 🔹 Step 1: Create Template
-Create a YAML or JSON file defining AWS resources...
+Create a YAML or JSON file defining AWS resources....
 
 ```yaml
 Resources:
