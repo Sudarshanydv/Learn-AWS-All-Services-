@@ -4,7 +4,7 @@ GitHub: https://github.com/Sudarshanydv
 Dev.to Blog: https://dev.to/sudarshan_yadav  
 LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
 
-# 🚀 My Web Hosting Journey with AWS EC2 – Step-by-Step Deployment Guide
+# 🚀 My Web Hosting Journey with AWS EC2 – Step-by-Step Deployment Guide.
    
 # EC2 Launch Guide        
    
