@@ -104,7 +104,7 @@ You can customize:
 * Auto Scaling rules
 * Environment variables
 * Load balancer settings
-* Health checks
+* Health checks 
 
 Configuration methods:
 
