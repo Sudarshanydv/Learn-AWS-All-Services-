@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
 ## 1️⃣ Prepare a Source EC2 Instance
 - Launch an EC2 instance (pick AMI, instance type, key pair, security group, subnet).
 - SSH (Linux) or RDP (Windows) into the instance.
-- Install and configure everything you want baked into the AMI:
+- Install and configure everything you want baked into the AMI::
   - Packages
   - Application code
   - Environment variables
