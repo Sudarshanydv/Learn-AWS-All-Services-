@@ -40,7 +40,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 ## ⭐ Why Linux is Valuable in AWS DevOps 
 - Most AWS compute and container services run on Linux
 - Supports automation & CI/CD for reliable deployment
-- Strong performance, security & troubleshooting capabilities
+- Strong performance, security & troubleshooting capabilities.
  
 --- 
 # 📌 Linux Useful Commands   
