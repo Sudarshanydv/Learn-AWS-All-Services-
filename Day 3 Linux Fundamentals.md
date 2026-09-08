@@ -171,7 +171,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 | | `groupmod -n developers devs` | Rename group |
 | | `groupdel devs` | Delete group |
 
-#… Thank You ….
+#… Thank You …..
 
 #DevOps #AWS #Linux #LearningJourney #CloudComputing #Automation #CareerGrowth #DevOpsEngineer
 
