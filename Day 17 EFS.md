@@ -69,7 +69,7 @@ EFS is used when we need:
 
 ---
 
-## 4️⃣ How EFS Works (Architecture)
+## 4️⃣ How EFS Works (Architecture).
 
 ```
 User
