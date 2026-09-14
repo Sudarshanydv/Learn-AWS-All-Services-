@@ -116,7 +116,7 @@ These services help in building decoupled, scalable, and reliable systems..
 
 ---
 
-## Thank You.
+## Thank You..
 
 ## 🔗 Connect With Me
 | 🌐 Platform                  | 🔗 Link                                              |
