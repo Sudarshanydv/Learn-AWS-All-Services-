@@ -1,6 +1,6 @@
 # 📅 Day 9 🚀 Load Balancing + Auto Scaling in AWS | How To Work And Use
      
-In real-world applications, traffic is not always constant. Sometimes we get **high traffic** (festive sale, new feature release) and sometimes traffic is **very low**..
+In real-world applications, traffic is not always constant. Sometimes we get **high traffic** (festive sale, new feature release) and sometimes traffic is **very low**...
 To handle this automatically, AWS provides two major services:
        
 ---     
