@@ -103,7 +103,7 @@ When sale ends and traffic drops:
                     └────────────────────────────┘
 
 
-   ## Thank You
+   ## Thank You.
 
 ## 🔗 Connect With Me
 | 🌐 Platform                  | 🔗 Link                                              |
