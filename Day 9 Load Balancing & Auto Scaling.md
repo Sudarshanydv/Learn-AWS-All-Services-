@@ -45,7 +45,7 @@ Auto Scaling automatically **adds or removes EC2 instances** depending on the lo
 
 ---
 
-## 🔥 Load Balancer + Auto Scaling Together
+## 🔥 Load Balancer + Auto Scaling Together.
 
 When both work together, they create a **powerful architecture**:
 
