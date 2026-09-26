@@ -72,7 +72,7 @@ If an e-commerce website gets huge traffic during sale:
 - Load Balancer **distributes traffic** to all servers
 
 When sale ends and traffic drops:
-- Auto Scaling **removes extra EC2 instances**
+- Auto Scaling **removes extra EC2 instances**.
 - Cost gets reduced automatically
 
 ---
