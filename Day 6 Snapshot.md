@@ -3,7 +3,7 @@
  
 # AWS Snapshots — Simple Step By Step Guide
 
-This repo contains a very simple explanation of AWS Snapshots for quick reference...
+This repo contains a very simple explanation of AWS Snapshots for quick reference....
  
 ## 🔹 EBS Snapshot (EC2 Disk Backup)        
        
